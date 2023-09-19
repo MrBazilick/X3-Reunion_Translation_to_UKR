@@ -6,7 +6,9 @@ I want to make this translation to rise awareness of this beautiful game and thi
 So I have started from files **440001.xml** and **440002.xml** that stands for english version of the game, and I will use it as reference.
   
  To check this translation you need to:
+ 
   -Add two files **80001.xml** and **80002.xml** in: ..\X3 - Runion\t;
+  
   -Change value to 8 in file **lang.dat** in ..\X3 - Runion; save the file and run the game.
 
 Worked on this project:
