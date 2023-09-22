@@ -172,31 +172,31 @@
 </page>
 
 <page id="12" title="Boardcomp. greek" descr="Spoken greek letters" voice="yes">
- <t id="100">alpha</t>
- <t id="101">beta</t>
- <t id="102">gamma</t>
- <t id="103">delta</t>
- <t id="104">epsilon</t>
- <t id="105">zeta</t>
- <t id="106">eta</t>
- <t id="107">theta</t>
- <t id="108">iota</t>
- <t id="109">kappa</t>
- <t id="110">lambda</t>
- <t id="111">mu</t>
- <t id="112">nu</t>
- <t id="113">xi</t>
- <t id="114">omicron</t>
- <t id="115">pi</t>
- <t id="116">rho</t>
- <t id="117">sigma</t>
- <t id="118">tau</t>
- <t id="119">upsilon</t>
- <t id="120">phi</t>
- <t id="121">chi</t>
- <t id="122">psi</t>
- <t id="123">omega</t>
- <t id="124">omega</t>
+ <t id="100">альфа</t> 
+ <t id="101">бета</t>
+ <t id="102">гамма</t>
+ <t id="103">дельта</t>
+ <t id="104">епсилон</t>
+ <t id="105">дзета</t>
+ <t id="106">ета</t>
+ <t id="107">тета</t>
+ <t id="108">йота</t>
+ <t id="109">каппа</t>
+ <t id="110">лямбда</t>
+ <t id="111">мю</t>
+ <t id="112">ню</t>
+ <t id="113">ксі</t>
+ <t id="114">омікрон</t>
+ <t id="115">пі</t>
+ <t id="116">ро</t>
+ <t id="117">сигма</t>
+ <t id="118">тау</t>
+ <t id="119">іпсилон</t>
+ <t id="120">фі</t>
+ <t id="121">хі</t>
+ <t id="122">псі</t>
+ <t id="123">омега</t>
+ <t id="124">омега</t>
  <t id="501">{9,518}(S)</t>
  <t id="502">{9,512}(M)</t>
  <t id="503">{9,511}(L)</t>
@@ -205,27 +205,27 @@
 </page>
 
 <page id="13" title="Boardcomp. Misc" descr="Various fragments spoken by shipboard comp. voice" voice="yes">
- <t id="1">Entering system</t>
- <t id="2">No Autopilot installed!</t>
- <t id="3">Autopilot damaged!</t>
- <t id="4">No Aim!</t>
- <t id="5">ejected</t>
- <t id="6">Targeting</t>
- <t id="9">No station for docking found!</t>
- <t id="10">Alert: Missile closing</t>
- <t id="11">Alert: Mine closing</t>
- <t id="13">No missiles</t>
- <t id="15">landed</t>
- <t id="17">Unidentified object</t>
- <t id="18">self-destructed</t>
- <t id="20">Message received</t>
+ <t id="1">Вхід в систему</t> <!-- Вхід в систему -->
+ <t id="2">Автопілот не встановлено!</t>
+ <t id="3">Автопілот пошкоджено!</t>
+ <t id="4">Немає цілі!</t>
+ <t id="5">викинуто</t>
+ <t id="6">Наведення</t>
+ <t id="9">Незнайдено станцію для стиковки!</t>
+ <t id="10">Попередження: Ракета</t>
+ <t id="11">Попередження: Міна</t>
+ <t id="13">Нема ракет</t>
+ <t id="15">Пристиковано</t>
+ <t id="17">Неопізнаний об'єкт</t>
+ <t id="18">самознищився</t>
+ <t id="20">Отримано повідомлення</t>
  <t id="22">(currently not used)collision of</t>
- <t id="23">with</t>
- <t id="24">not installed</t>
- <t id="25">not available</t>
- <t id="27">available</t>
- <t id="29">(Ship upgrades destroyed or damaged reported)destroyed</t>
- <t id="30">(Ship upgrades destroyed or damaged reported)damaged</t>
+ <t id="23">з</t>
+ <t id="24">не встановлено</t>
+ <t id="25">відсутнє</t>
+ <t id="27">наявно</t>
+ <t id="29">(Ship upgrades destroyed or damaged reported)знищено</t>
+ <t id="30">(Ship upgrades destroyed or damaged reported)пошкоджено</t>
  <t id="31">(_none M5 dock at M6_)This ship is too large to dock with an M6 class corvette ship. Only M5 class scout ships can dock on a corvette</t>
  <t id="32">(_TK class too large for ship_)This ware type does not fit into your ship. </t>
  <t id="33">(_TK class too large for ship_)Container type too large for cargo hatch!</t>
@@ -544,49 +544,49 @@
  <t id="2601">(General description for all Impulse Ray Emitters)The Impulse Ray Emitter is one of the oldest energy based weapons around. They require not much power to fire, and they usually have quite a rapid fire rate.(||) No one actually knows when the weapon was first developed.</t>
  <t id="2602">(General description for all Particle Accelerator Cannons)The first of its class were developed by the Паранід and Аргон. The Particles are accelerated to a speed faster than nearly most currently known spacecraft. When they are then polarised and focused into a tight energy pulse. (||) They have been around since the Ксенон conflict.</t>
  <t id="2603">(General description for all High Energy Plasma Throwers)The radiation is so dangerous that the weapon had to go through many jazuras of research and development until it could be placed on the market. This was worked around by adding a radiation sink into the weapons main design. Purging the weapon of all excess radiation between shots.</t>
- <t id="2611">Alpha IRE Forge</t>
- <t id="2612">This Laser Forge manufactures the popular Alpha Impulse Ray Emitter.</t>
- <t id="2613">Alpha Impulse Ray Emitter</t>
+ <t id="2611">альфа IRE Forge</t>
+ <t id="2612">This Laser Forge manufactures the popular альфа Impulse Ray Emitter.</t>
+ <t id="2613">альфа Impulse Ray Emitter</t>
  <t id="2614">{17,2619} {17,2601}</t>
  <t id="2619">This is a basic laser that is used in many light weapons and smaller fighter craft.(||) It has an extremely high fire rate, is very light, and is an excellent weapon for missile defence purposes in turrets.</t>
- <t id="2621">Beta IRE Forge</t>
- <t id="2622">This Laser Forge manufactures the widely used Beta Impulse Ray Emitter.</t>
- <t id="2623">Beta Impulse Ray Emitter</t>
+ <t id="2621">бета IRE Forge</t>
+ <t id="2622">This Laser Forge manufactures the widely used бета Impulse Ray Emitter.</t>
+ <t id="2623">бета Impulse Ray Emitter</t>
  <t id="2624">{17,2629} {17,2601}</t>
  <t id="2629">This laser is used in larger weapon systems and many little to medium fighter crafts.(||) It has an high fire rate, is very light,  and a low energy drain, and is a good weapon for missile defence in turrets. </t>
- <t id="2631">Gamma IRE Forge</t>
- <t id="2632">This Laser Forge manufactures Gamma Impulse Ray Emitters.</t>
- <t id="2633">Gamma Impulse Ray Emitter</t>
+ <t id="2631">гамма IRE Forge</t>
+ <t id="2632">This Laser Forge manufactures гамма Impulse Ray Emitters.</t>
+ <t id="2633">гамма Impulse Ray Emitter</t>
  <t id="2634">{17,2639} {17,2601}</t>
  <t id="2639">This laser is found in larger weapons systems and many small to medium fighter craft.</t>
- <t id="2641">Alpha PAC Forge</t>
- <t id="2642">This Laser Forge manufactures the Alpha Particle Accelerator Cannon.</t>
- <t id="2643">Alpha Particle Accelerator Cannon</t>
+ <t id="2641">альфа PAC Forge</t>
+ <t id="2642">This Laser Forge manufactures the альфа Particle Accelerator Cannon.</t>
+ <t id="2643">альфа Particle Accelerator Cannon</t>
  <t id="2644">{17,2649} {17,2602}</t>
  <t id="2649">A weapon found in some of the medium to larger fighter crafts.</t>
- <t id="2651">Beta PAC Forge</t>
- <t id="2652">This Laser Forge manufactures the Beta Particle Accelerator Cannon</t>
- <t id="2653">Beta Particle Accelerator Cannon</t>
+ <t id="2651">бета PAC Forge</t>
+ <t id="2652">This Laser Forge manufactures the бета Particle Accelerator Cannon</t>
+ <t id="2653">бета Particle Accelerator Cannon</t>
  <t id="2654">{17,2659} {17,2602}</t>
  <t id="2659">A weapon found in many medium to larger fighter crafts.</t>
- <t id="2661">Gamma PAC Forge</t>
- <t id="2662">This Laser Forge manufactures the Gamma Particle Accelerator Cannon</t>
- <t id="2663">Gamma Particle Accelerator Cannon</t>
+ <t id="2661">гамма PAC Forge</t>
+ <t id="2662">This Laser Forge manufactures the гамма Particle Accelerator Cannon</t>
+ <t id="2663">гамма Particle Accelerator Cannon</t>
  <t id="2664">{17,2669} {17,2602}</t>
  <t id="2669">A weapon mostly found on some medium to larger fighter craft.</t>
- <t id="2671">Alpha HEPT Forge</t>
- <t id="2672">This Laser Forge manufactures the Alpha High Energy Plasma Thrower</t>
- <t id="2673">Alpha High Energy Plasma Thrower</t>
+ <t id="2671">альфа HEPT Forge</t>
+ <t id="2672">This Laser Forge manufactures the альфа High Energy Plasma Thrower</t>
+ <t id="2673">альфа High Energy Plasma Thrower</t>
  <t id="2674">{17,2679} {17,2603}</t>
  <t id="2679">A deadly weapon found on some larger fighter craft and on some destroyers.</t>
- <t id="2681">Beta HEPT Forge</t>
- <t id="2682">This Laser Forge manufactures the Beta High Energy Plasma Thrower</t>
- <t id="2683">Beta High Energy Plasma Thrower</t>
+ <t id="2681">бета HEPT Forge</t>
+ <t id="2682">This Laser Forge manufactures the бета High Energy Plasma Thrower</t>
+ <t id="2683">бета High Energy Plasma Thrower</t>
  <t id="2684">{17,2689} {17,2603}</t>
  <t id="2689">A deadly weapon found on most corvettes, destroyers and carriers.(||) This is a weapon, used for fighter defence.</t>
- <t id="2691">Gamma HEPT Forge</t>
- <t id="2692">This Laser Forge manufactures the Gamma High Energy Plasma Thrower</t>
- <t id="2693">Gamma High Energy Plasma Thrower</t>
+ <t id="2691">гамма HEPT Forge</t>
+ <t id="2692">This Laser Forge manufactures the гамма High Energy Plasma Thrower</t>
+ <t id="2693">гамма High Energy Plasma Thrower</t>
  <t id="2694">{17,2699} {17,2603}</t>
  <t id="2699">A deadly weapon found on most corvettes, destroyers and Carriers.(||) This is a weapons used for fighter defence.</t>
  <t id="2710">(General shield description)Shields are vital for survival in space. They protect the ship from small impacting objects like mini asteroids as well as during fights.</t>
@@ -620,8 +620,8 @@
  <t id="2912">A remotely controlled drone used for pilot training. It can contain equipment or other objects, which are set free on destruction of the drone.</t>
  <t id="2923">Baluga missile</t>
  <t id="2924">The Baluga class missile is a strong space weapon developed by Earth Space Fleet after the great Terraformer wars.</t>
- <t id="2933">Alpha missile</t>
- <t id="2934">The alpha missile is part of the standard equipment of all earth fleet ships.</t>
+ <t id="2933">альфа missile</t>
+ <t id="2934">The альфа missile is part of the standard equipment of all earth fleet ships.</t>
  <t id="3101">Federal Аргон Shipyard</t>
  <t id="3102">{17,3108} {17,3109}</t>
  <t id="3108">(General description for all shipyards)Shipyards are the heart and soul of modern societies. They are factories of gigantic dimension, built to manufacture all the space vehicles and even build and sell whole construction kits for new factories. Because of the immense resources and labour required to build as well as run a factory like this, shipyards are rare to encounter.</t>
@@ -800,23 +800,23 @@
  <t id="4632">This factory manufactures the Mobile Drilling System which is used to break up ore-rich asteroids into smaller pieces without the need for a stationary mining facility.</t>
  <t id="4633">Mobile Drilling System</t>
  <t id="4634">The Mobile Drilling System accelerates and emits small fast rotating helical particles which drill into rock and use supersonic resonance to break up the rock. Its effectiveness against other materials is very low.</t>
- <t id="4643">Alpha Kyon Emitter</t>
+ <t id="4643">альфа Kyon Emitter</t>
  <t id="4644">{17,4648} {17,4649}</t>
- <t id="4653">Beta Kyon Emitter</t>
+ <t id="4653">бета Kyon Emitter</t>
  <t id="4654">{17,4648} {17,4659}</t>
- <t id="4663">Gamma Kyon Emitter</t>
+ <t id="4663">гамма Kyon Emitter</t>
  <t id="4664">{17,4648} {17,4669}</t>
- <t id="4671">Alpha PSG Forge</t>
- <t id="4672">This forge manufactures the Alpha PSG weapon, a new breakthrough in weaponry technology.(||) The process of building this weapon is a complicated one that requires job specific machinery. Safety is also an issue, the prototype station exploded when the main matter compressor overloaded. Since the incident, the manufacturing process has changed.</t>
- <t id="4673">Alpha Phased Shockwave Generator</t>
+ <t id="4671">альфа PSG Forge</t>
+ <t id="4672">This forge manufactures the альфа PSG weapon, a new breakthrough in weaponry technology.(||) The process of building this weapon is a complicated one that requires job specific machinery. Safety is also an issue, the prototype station exploded when the main matter compressor overloaded. Since the incident, the manufacturing process has changed.</t>
+ <t id="4673">альфа Phased Shockwave Generator</t>
  <t id="4674">This weapon was developed in conjunction between the Теладі and Паранід. It works by sending out a phased package, which reacts and expands, creating a shockwave of phased energy.(||) This weapon has many uses, many of which can be quite useful, one is missile defence.</t>
- <t id="4681">Beta PSG Forge</t>
- <t id="4682">This forge manufactures the Beta PSG weapon, a new breakthrough in weaponry technology.(||) The process of building this weapon is a complicated one that requires job specific machinery. Safety is also an issue, the prototype station exploded when the main matter compressor overloaded. Since the incident, the manufacturing process has changed.</t>
- <t id="4683">Beta Phased Shockwave Generator</t>
+ <t id="4681">бета PSG Forge</t>
+ <t id="4682">This forge manufactures the бета PSG weapon, a new breakthrough in weaponry technology.(||) The process of building this weapon is a complicated one that requires job specific machinery. Safety is also an issue, the prototype station exploded when the main matter compressor overloaded. Since the incident, the manufacturing process has changed.</t>
+ <t id="4683">бета Phased Shockwave Generator</t>
  <t id="4684">This weapon is the Mark Two version of the PSG Weapon. It works by sending out a phased package, which reacts and expands, creating a shockwave of enhanced phased energy.(||) This weapon has many uses, many of which can be quite useful, one is missile defence.</t>
- <t id="4691">Gamma PSG Forge</t>
- <t id="4692">This forge manufactures the Gamma PSG weapon, a new breakthrough in weaponry technology.(||) The process of building this weapon is a complicated one that requires job specific machinery. Safety is also an issue, the prototype station exploded when the main matter compressor overloaded. Since the incident, the manufacturing process has changed.</t>
- <t id="4693">Gamma Phased Shockwave Generator</t>
+ <t id="4691">гамма PSG Forge</t>
+ <t id="4692">This forge manufactures the гамма PSG weapon, a new breakthrough in weaponry technology.(||) The process of building this weapon is a complicated one that requires job specific machinery. Safety is also an issue, the prototype station exploded when the main matter compressor overloaded. Since the incident, the manufacturing process has changed.</t>
+ <t id="4693">гамма Phased Shockwave Generator</t>
  <t id="4694">This weapon is the Mark Three version of the PSG Weapon. It works by sending out a phased package, which reacts and expands, creating a shockwave of enhanced phased energy.(||) This weapon has many uses, many of which can be quite useful, one is multiple fighter defence.</t>
  <t id="4731">Xperimental Shuttle</t>
  <t id="4732">Not much is known about the ship known as the Xperimental Shuttle. This ship was supposed to be able to cross vast distances without having to use jump gates, by generating its own wormhole. Аргон Scientists are still trying to fix the ship and get its drive back into working order.(||) When the ship was built it was considered to be the fastest ship of its class. It also attracted the attention of people when it landed on stations, as this ship is unique.</t>
@@ -839,17 +839,17 @@
  <t id="4834">This is a specialised device originally developed for spy missions by the Паранід, the technology behind the device is Невідомий. It renders the ship invisible to gravidar and to sight. Because of its dangerous nature it is now considered highly illegal in most sectors as there are fears that if the device falls into either Pirate or Ксенон hands, any of the sentient races would be at risk to attack.(||) Although there are rumours that each race military has a covert operations squadron equipped these devices.</t>
  <t id="4863">Spacefly Collector</t>
  <t id="4864">Although illegal, Spacefly collecting has become the highly paid good in the universe. These small creatures are captured by a high resonance wave of the device, attracting them inside of hold.(||) These spaceflies are then sold to anyone who will take them, automatically making a profit. This activity is illegal but within pirate communities it has become a way of life.</t>
- <t id="4871">Alpha PPC Forge</t>
+ <t id="4871">альфа PPC Forge</t>
  <t id="4872">Originally a Weapons Research Laboratory for Аргон scientists, now home to the production of the Photon Pulse Cannon. A powerful weapon for capital ships.</t>
- <t id="4873">Alpha Photon Pulse Cannon</t>
+ <t id="4873">альфа Photon Pulse Cannon</t>
  <t id="4874">First developed by Professor Jo Bydnah of the Аргон, the Photon Pulse Cannon became a favourite of the Аргон Military, who then sold the original designs on to the other races. This type of weapon is extremely powerful, and can only be fitted on the larger Capital craft.(||) It works by sending highly charged photon radiation through a series of coils, that multiplies the charge, creating a very deadly pulse of radiation.</t>
- <t id="4881">Beta PPC Forge</t>
- <t id="4882">An upgraded PPC Forge, the Beta Version is more powerful with a longer construction process. The PPC is a powerful weapon for capital ships.</t>
- <t id="4883">Beta Photon Pulse Cannon</t>
+ <t id="4881">бета PPC Forge</t>
+ <t id="4882">An upgraded PPC Forge, the бета Version is more powerful with a longer construction process. The PPC is a powerful weapon for capital ships.</t>
+ <t id="4883">бета Photon Pulse Cannon</t>
  <t id="4884">The next version of the PPC series first developed by Professor Jo Bydnah of the Аргон. This type of weapon is extremely powerful, and can only be fitted on the larger Capital craft.(||) It works by sending highly charged photon radiation through a series of coils, that multiplies the charge, creating a very deadly pulse of radiation, this version also includes a super conducting coil set.</t>
- <t id="4891">Gamma PPC Forge</t>
+ <t id="4891">гамма PPC Forge</t>
  <t id="4892">The Most powerful PPC weapon is constructed here. A fully upgraded Forge with autonomous machinery to construct the most deadly Capital Weapon to Date.</t>
- <t id="4893">Gamma Photon Pulse Cannon</t>
+ <t id="4893">гамма Photon Pulse Cannon</t>
  <t id="4894">The most powerful version of the PPC series first developed by Professor Jo Bydnah. This type of weapon is extremely powerful, and can only be fitted on the larger Capital craft.(||) It works by sending highly charged photon radiation through a series of coils, which multiplies the charge, creating a very deadly pulse of radiation. A proton filter makes the weapon more effective against hull and shields, allowing the weapon to react with the hull.</t>
  <t id="4903">Sting</t>
  <t id="4913">Needle</t>
@@ -858,7 +858,7 @@
  <t id="4941">Lasertower Weapon Forge</t>
  <t id="4942">This factory produces the lasertower weapon. This weapon is incompatible with all ships. It can only be used in the lasertower defence platform.(||) The station uses high tech machinery to assemble this weapon, it is a very dangerous process which uses plasma energy.</t>
  <t id="4943">Lasertower Weapon</t>
- <t id="4944">This is the primary high-energy plasma beam that is used in Lasertowers. Its main energy systems make this weapon incompatible with large ships for the time being(||), although scientists are trying to find a way to remedy this situation.(||) Аргон scientists first developed this weapon by accident when using a photon enhanced Gamma radiation, which created a beam laser.</t>
+ <t id="4944">This is the primary high-energy plasma beam that is used in Lasertowers. Its main energy systems make this weapon incompatible with large ships for the time being(||), although scientists are trying to find a way to remedy this situation.(||) Аргон scientists first developed this weapon by accident when using a photon enhanced гамма radiation, which created a beam laser.</t>
  <t id="4951">Mass Driver Forge</t>
  <t id="4952">Mass Drivers are a new invention by the Аргон and Спліт. It makes use of the magnetic firing system that allows the projectile to be fired out at rapid speed without the need for chemical or laser based firing systems. Projectiles are bought separately and are sold in Ammunition Crates.</t>
  <t id="4953">Mass Driver</t>
@@ -1308,7 +1308,7 @@
  <t id="7001485">All my mines in sector: Activate</t>
  <t id="7001486">All my mines in sector: Detonate</t>
  <t id="7001581">Protect Station...</t>
- <t id="7001582">Set Weaponmode: Gamma Plasma Thrower</t>
+ <t id="7001582">Set Weaponmode: гамма Plasma Thrower</t>
  <t id="7001583">Set Weaponmode: Highenergy Beam</t>
  <t id="7001590">Test only: Test Oribitallaser</t>
  <t id="7001680">Energy</t>
@@ -1414,7 +1414,7 @@
  <t id="1030712">Dedicated mostly to the production of Nostrop Oil for use in the industrial installations in the neighbouring systems, Зелена Луска is situated in a small asteroid field near the garden planet 'Nature's Profit', the native home of the Swamp Plant and Sunrise Flower.</t>
  <t id="1030713">Named after the Аргон heroine and Гонер priestess Nyana Gunne, great-granddaughter of the famous Аргон leader Nathan Gunne, this system was the location of some of the more colourful events in her life. It is now a rough place where times are hard and people harder. There is much illegal activity in this system and skirmishes are common.</t>
  <t id="1030714">Омікрон Ліри remains true to the courage and conviction of those who knew that this sector would not be the last will and testament to the battle fought against the Хаак. Here lie the souls of those not forgotten, those who understood that this would be the point at which all races would stand tall and take the battle onwards. Those remaining here are neither forsaken or left without hope. Life goes on, while in the shadows lurk the destroyers of worlds.</t>
- <t id="1030715">This struggling Аргон agricultural system is situated between the breathtaking planets 'Garleth Prime' and 'Garleth Beta'. Recent attacks on supply lines by Ксенон forces have led to many fire-fights among the installations, asteroids and the busy trade routes in this system.</t>
+ <t id="1030715">This struggling Аргон agricultural system is situated between the breathtaking planets 'Garleth Prime' and 'Garleth бета'. Recent attacks on supply lines by Ксенон forces have led to many fire-fights among the installations, asteroids and the busy trade routes in this system.</t>
  <t id="1030716">The furthest Federation outpost from Аргон Prime, this dangerous system is both a deep-space resupply point and military tracking station. Ксенон activity in this system is carefully monitored by a covert Federation branch who are rumoured to have an inaccessible base hidden near the storm-battered planet 'Hades'.</t>
  <t id="1030802">Perhaps the stunning gas nebulae that dominate the view in this system and the general atmosphere of peace and tranquillity are what inspire the gorgeous jewellery crafted by the Паранід here. The tiny masterpieces they craft from Majaglit can take years to complete and are collected avariciously by art enthusiasts from around the systems.</t>
  <t id="1030803">This highly agricultural system provides much of the Soja Beans that form the basis of the Паранід diet. The highly ionised water of the system's planet contains rare organic minerals that greatly improve the flavour of Beans nurtured in it. This system suffered particularly heavy losses in the last Ксенон conflict.</t>
@@ -2329,15 +2329,15 @@
  <t id="1100068">Step:</t>
  <t id="1100069">The content of your freight bay</t>
  <t id="1100070">Save your game</t>
- <t id="1101000">Alpha IRE</t>
- <t id="1101001">Beta IRE</t>
- <t id="1101002">Gamma IRE</t>
- <t id="1101003">Alpha PAC</t>
- <t id="1101004">Beta PAC</t>
- <t id="1101005">Gamma PAC</t>
- <t id="1101006">Alpha HEPT</t>
- <t id="1101007">Beta HEPT</t>
- <t id="1101008">Gamma HEPT</t>
+ <t id="1101000">альфа IRE</t>
+ <t id="1101001">бета IRE</t>
+ <t id="1101002">гамма IRE</t>
+ <t id="1101003">альфа PAC</t>
+ <t id="1101004">бета PAC</t>
+ <t id="1101005">гамма PAC</t>
+ <t id="1101006">альфа HEPT</t>
+ <t id="1101007">бета HEPT</t>
+ <t id="1101008">гамма HEPT</t>
  <t id="1101010">A list of all your property</t>
  <t id="1101011">Available lasers</t>
  <t id="1101012">Available missiles</t>
@@ -2465,7 +2465,7 @@
  <t id="1102558">None</t>
  <t id="1102800">Action on current object:\n&lt;Return&gt;\tshow object menu\n&lt;t&gt;\ttarget object\n&lt;u&gt;\tshow object info\n&lt;d&gt;\topen trade menu\n&lt;c&gt;\tCommunication\n&lt;m&gt;\tchange object name\n\nActions on sector map:\n&lt;End&gt;\tZoom out\n&lt;Home&gt;\tZoom in\n&lt;Ins&gt;\tselect up/side view\n\n&lt;Numpad Cursors&gt;\tmove cursor\n&lt;Numpad 5&gt;\tselect nearest object to cursor\n\n&lt;k&gt;\ton/off sector camera</t>
  <t id="1102801">Action on current object:\n&lt;Return&gt;\tshow object menu\n&lt;t&gt;\ttarget object\n&lt;u&gt;\tshow object info\n&lt;d&gt;\topen trade menu\n&lt;c&gt;\tCommunication\n&lt;m&gt;\tchange object name\n&lt;,&gt;\topen universe map\n&lt;.&gt;\topen sector map\n&lt;g&gt;\tchoose sector\n\nOther actions:\n&lt;s&gt;\tyour current ship\n&lt;p&gt;\tyour personal data</t>
- <t id="1102802">\033YGalaxy Edit mode\033X\n\n&lt;numpad 4,6,7,8&gt;\tMove object slow\n&lt;numpad 7,9,1,3&gt;\tMove object fast\n&lt;numpad 5&gt;\tReset rotation\n&lt;numpad 0, DEL&gt;\tRotate object alpha\n&lt;numlock, div&gt;\tRotate beta\n&lt;numpad \053,-&gt;\tRotate gamma\n&lt;r/R,g/G,f/F&gt;\tChange color of sun\n&lt;Return&gt;\tChange subtype\n&lt;d&gt;\tDestroy object\n&lt;s&gt;\tChange sector owner\n&lt;v&gt;\tChange galaxy background\n&lt;n&gt;\tSet special object name\n&lt;h/H,j/J,k/K&gt;\tChange sector fog color\n&lt;o/O&gt;\tChange sector fog near dist.\n&lt;l/L&gt;\tChange sector fog far dist.\n&lt;m&gt;\tOverride music track ID\n\n\033YObject Symbols:\033X\n\n\033R@t@\033X\t3D polygon collision test\n\033R@c@\033X\tObject is colliding\n\033R@d@\033X\tSQUASH mine exploding</t>
+ <t id="1102802">\033YGalaxy Edit mode\033X\n\n&lt;numpad 4,6,7,8&gt;\tMove object slow\n&lt;numpad 7,9,1,3&gt;\tMove object fast\n&lt;numpad 5&gt;\tReset rotation\n&lt;numpad 0, DEL&gt;\tRotate object альфа\n&lt;numlock, div&gt;\tRotate бета\n&lt;numpad \053,-&gt;\tRotate гамма\n&lt;r/R,g/G,f/F&gt;\tChange color of sun\n&lt;Return&gt;\tChange subtype\n&lt;d&gt;\tDestroy object\n&lt;s&gt;\tChange sector owner\n&lt;v&gt;\tChange galaxy background\n&lt;n&gt;\tSet special object name\n&lt;h/H,j/J,k/K&gt;\tChange sector fog color\n&lt;o/O&gt;\tChange sector fog near dist.\n&lt;l/L&gt;\tChange sector fog far dist.\n&lt;m&gt;\tOverride music track ID\n\n\033YObject Symbols:\033X\n\n\033R@t@\033X\t3D polygon collision test\n\033R@c@\033X\tObject is colliding\n\033R@d@\033X\tSQUASH mine exploding</t>
  <t id="1102805">\033Y--- Help ---\033X\n\n&lt;RETURN&gt;\tBring up main menu\n\tor select menu entry\n&lt;Esc&gt;\tBack to previous menu or\n\topen options menu \(in space\)\n&lt;Del&gt;\tExit all menus instantly\n&lt;RMB&gt;\tOpen/close menus\n&lt;Mousewheel&gt;\tControl menus\n&lt;Shift Mouse&gt;\tControl menus\n&lt;POV hat&gt;\tControl menus\n&lt;Shift P&gt;\tPause game\n&lt;Shift Q&gt;\tQuit game\n\n\033YShip controls\033X\n&lt;Cursor Keys&gt;\tSteer ship or turret\n&lt;Joystick&gt;\tSteer ship or turret\n&lt;Mouse&gt;\tSteer ship or turret\n&lt;Q/W&gt;\tRoll ship\n&lt;Joystick Z&gt;\tRoll ship\n&lt;A/Z&gt;\tShip speed control\n&lt;Throttle&gt;\tShip speed control\n&lt;Backspace&gt;\tBrake to zero speed\n&lt;Tab,B&gt;\tBoost speed to max\n&lt;RCtrl,Alt Gr&gt;\tStrafe movement of ship\n&lt;J&gt;\tUse SETA time compression\n&lt;O&gt;\tOpen/close freight bay door\n&lt;Shift D&gt;\tCommand ship to dock at\n\ttarget or fly through gate\n&lt;D&gt;\tDock using docking computer\n&lt;U&gt;\tToggle autopilot on/off\n\tAutopilot in main monitor:\n\t- dock at targeted station\n\t- fly through targeted gate\n\t- follow targeted ship\n\n\033YWeapon controls\033X\n&lt;LCtrl&gt;\tFire lasers of active cockpit\n&lt;LMB&gt;\tFire lasers of active cockpit\n&lt;Joystick FIRE&gt;\tFire lasers of active cockpit\n&lt;1,2,3,4&gt;\tChange laser in bay 1-4\n&lt;M&gt;\tSelect/cycle missile type\n&lt;L&gt;\tLaunch missile\n&lt;K&gt;\tChange laser targeting mode\n\n\033YTarget management\033X\n&lt;T&gt;\tTarget to object under cursor\n&lt;E&gt;\tEnemy mode: Nearest enemy\n&lt;PgUp/PgDn&gt;\tTarget next/prev. ship\n&lt;Home/End&gt;\tTarget next/prev. enemy\n&lt;Ins/Del&gt;\tTarget next/prev. playership\n\n\033YView controls\033X\n&lt;F1&gt;\tSwitch monitor to next cockpit\n&lt;F1 hold&gt;\tSwitch back to main cockpit\n&lt;F2&gt;\tSwitch monitor to ext. view\n&lt;F3&gt;\tShow current target of ship\n\tor scale up mini monitor\n&lt;F4&gt;\tSwitch to next monitor\n&lt;F4 hold&gt;\tSwitch back to main monitor\n&lt;F5&gt;\tToggle all monitors on/off\n&lt;Shift 1-5&gt;\tMap monitor to target\n&lt;Num 1-9&gt;\tLook around \(cockpit/ext.view\)\n&lt;POV hat&gt;\tLook around \(cockpit/ext.view\)\n&lt;Num \053,-&gt;\tCamera distance in ext. view\n&lt;Num 0&gt;\tCycle through camera modes:\n\t relative, absolute,\n\t flyby, cinematic\n&lt;G&gt;\tToggle Ecliptic projector\n&lt;Alt,MMB&gt;\tZoom in\n&lt;Shift M&gt;\tChange Gravidar view range\n\n\033YMenu hotkeys\033X\n&lt;.&gt;\tSector map\n&lt;,&gt;\tUniverse map\n&lt;S&gt;\tShip info menu\n&lt;I&gt;\tTarget info menu\n&lt;F&gt;\tFreight menu\n&lt;C&gt;\tComm. with target\n&lt;P&gt;\tPilot information\n&lt;R&gt;\tPlayer property menu\n&lt;Shift C&gt;\tCommand console of cur. ship\n&lt;Shift O&gt;\tOptions menu\n&lt;Shift S&gt;\tSave game using salvage ins.\n&lt;Shift L&gt;\tLoad game\n&lt;H&gt;\tHelp window\n&lt;A-Z&gt;\tSelect sector in universe map\n\tby first letter\n&lt;1-9,0&gt;\tSelect amount in trade menu\n\n\033YOther hotkeys\033X\n&lt;ESC&gt;\tSkip cutscenes, skip docking/\n\tdeparting manoeuvres\n&lt;Shift E&gt;\tEject from or enter ship\n&lt;Shift J&gt;\tActivate Jump drive\n&lt;Shift R&gt;\tRecording on/off\n&lt;Shift 6&gt;\tCommand wingmen: Attack target\n&lt;Shift 7&gt;\tCommand wingmen: Protect me\n&lt;Shift 8&gt;\tCommand drones: Attack target\n&lt;Shift 9&gt;\tCommand drones: Protect me\n&lt;F9/P.Scr&gt;\tSave screenshot</t>
  <t id="1102901">Show ships of type: (property menu category for texts 1102544 to 1102547)</t>
  <t id="1102902">Show ships with state: (110249 to 1102555)</t>
@@ -2792,7 +2792,7 @@
  <t id="9">FALSE</t>
  <t id="10">TRUE</t>
  <t id="11">DOCKEDAT</t>
- <t id="100">Formation.Delta</t>
+ <t id="100">Formation.дельта</t>
  <t id="101">Formation.Line</t>
  <t id="102">Formation.X</t>
  <t id="103">Formation.BigShipEscort</t>
@@ -2805,7 +2805,7 @@
  <t id="110">Find.Friend</t>
  <t id="111">Find.Multiple</t>
  <t id="112">Find.TypeAsWareCategory</t>
- <t id="113">Formation.XDelta</t>
+ <t id="113">Formation.Xдельта</t>
  <t id="114">Formation.Pyramid</t>
  <t id="115">Find.IllegalWare</t>
  <t id="116">Find.ForceUsePos</t>
@@ -3191,7 +3191,7 @@
  <t id="765">%0 destruct: show no explosion=%1</t>
  <t id="766">%0 find flying ware: sector=%1 maintype=%2 subtype=%3 flags=%4 refobj=%5 maxdist=%6 maxnum=%7, refpos=%8</t>
  <t id="767">%0 set position: x=%1 y=%2 z=%3</t>
- <t id="768">%0 set rotation: alpha=%1 beta=%2 gamma=%3</t>
+ <t id="768">%0 set rotation: альфа=%1 бета=%2 гамма=%3</t>
  <t id="769">set position of sector object %0 : x=%1 y=%2 z=%3</t>
  <t id="770">set safe position of sector object %0 : x=%1 y=%2 z=%3</t>
  <t id="771">set rotation of sector object %0 : x=%1 y=%2 z=%3</t>
@@ -3200,9 +3200,9 @@
  <t id="774">kill sector object %0 : reason=%1 , killer sector object=%2</t>
  <t id="775">start sector object %0 in space %1</t>
  <t id="776">%0 create flying ware: maintype=%1 subtype=%2 count=%3 sector=%4 x=%5 y=%6 z=%7 selfdestruct=%8</t>
- <t id="777">%1%0 get rot alpha</t>
- <t id="778">%1%0 get rot beta</t>
- <t id="779">%1%0 get rot gamma</t>
+ <t id="777">%1%0 get rot альфа</t>
+ <t id="778">%1%0 get rot бета</t>
+ <t id="779">%1%0 get rot гамма</t>
  <t id="780">%1%0 get size of object</t>
  <t id="781">%0 remove product from factory or dock: %1</t>
  <t id="782">%0 remove primary resource from factory: %1</t>
@@ -4402,10 +4402,10 @@
  <t id="0">Normal</t>
  <t id="1">Aggressive</t>
  <t id="2">Defensive</t>
- <t id="10">Delta</t>
+ <t id="10">дельта</t>
  <t id="11">Line</t>
  <t id="12">X</t>
- <t id="13">XDelta</t>
+ <t id="13">Xдельта</t>
  <t id="14">Pyramid</t>
  <t id="17">Random</t>
  <t id="1000">Tactical</t>
@@ -5678,7 +5678,7 @@
  <t id="12">[article/][author]{1294,80}[/author][title]Galnet Special : Weapons At War - Photon Pulse Cannons[/title][text cols='1'][justify]&quot;Photon Pulse Cannons&quot;\nJan Polak\n\nFirst Developed by Professor Jo Bydnah of the Аргон, the Photon Pulse Cannon is a firm favourite of the Аргон Military, who then sold the original designs on to other races. This type of weapon is extremely powerful, and can only be fitted on the larger Capital craft. It works by sending highly charged photon radiation through a series of coils that multiplies the charge, creating a very deadly pulse of radiation. The more powerful version of this weapon include a super-conducting coilset and a proton filter that makes the weapon more effective against hull and shields.\n\nThe stations that produce them were the original Weapons Research Laboratories that developed this technology for the Аргон. Professor Bydnah still works on updating the PPC weapon and has recently become the head of Аргон Weapons Research in Омікрон Ліри, representing the Grand Sonra University.[/justify][/text]</t>
  <t id="13">[article/][author]{1294,80}[/author][title]Thousands dead as asteroid pushed into planet[/title][text cols='2'][justify]The planet Oceania in Рай Менелаї is in a state of shock after an asteroid hit by a TL class transporter was sent tumbling into the planet's atmosphere. The death toll is currently Невідомий but is thought to number well over 12,000. The gigantic transporter was attempting to set up a silicon mine on a nearby asteroid and nudged the mountain sized rock onto a collision course. The Boron pilot, Fumi No, was tested for narcotics and was found to be under the influence of both spaceweed and Аргон whisky. If found guilty of flying while intoxicated, Fumi No faces a prison sentence of no less than 8 Jazura and his Master's licence revoked. Critics have protested that the length of sentence available is not severe enough compared to the destruction and loss of life caused.\n\nAid convoys are being sent by the Аргон, Гонер and other Boron sectors. The Boron government has set up a charity for all affected and all Boron government factories have sent a percentage of their profits to help. Anyone worried about family members who may have been on the planet at the time are advised to contact the administrator of the nearest Boron trading station for details on the latest updates.\n\nThere will be a memorial service held in the Гонер Temple in Південно-Західна Хмарна База. Anyone wishing to attend should contact the Гонер for details.\n\nKrimanckussut - Current Affairs Correspondent, Galnet[/justify][/text]</t>
  <t id="14">[article/][author]{1294,80}[/author][title]Competing pirate groups cause havoc in frontier sectors[/title][text cols='2'][justify]Reports have been coming in about rival pirate groups setting up competitions between themselves. The recent spate of thefts, ship hijackings, and smuggling incidents have led to major police investigations which have revealed that the pirate groups are ranking themselves in a league table format. This league table seems to be Спліт into two sections. The first of these sections involves speed records for various activities including the top times for completing gate races, quickest ship hijacking and fastest escape from police attention. The other section relates to the amount of credits gained from certain activities. Examples include the highest price for a single smuggling run of contraband products or the highest price for the sale of a stolen ship.\n\nA copy of the &quot;high credits&quot; section of the leader board was recently obtained by Аргон military forces in a raid on the pirate base in the sector Пояс Руди. The list was a major find and has been used in bringing over 20 Пірат to justice. More of the criminals are still being hunted but the Аргон are confident that when they are found, the criminals will be convicted by the compelling evidence against them. Tomes Burnett, a spokesperson for the Аргон military said &quot;These criminals must be stopped. Not only are they breaking the law, they are making a game out of it. It is a blatant insult to law enforcers of every race as well as to all law abiding citizens throughout the known systems. This cannot and will not be tolerated.&quot; He then went on to remind all individuals that financial rewards are offered to any sentient being who helps to reduce the pirate problem, provided that they are in possession of a police licence.\n\nKunklu Ni - Legal Correspondent, Galnet News[/justify][/text]</t>
- <t id="15">[article/][author]{1294,80}[/author][title]Galnet Special : Weapons At War - Particle Accelerator Cannon[/title][text cols='1'][justify]&quot;Particle Accelerator Cannon&quot;\nJan Polak\n\nThis weapon is usually found on larger fighter craft, destroyers and on some battleships and carriers.\nThey have been around since the Аргон Weapons Society was founded near the beginning of the Ксенон conflict. The first of it's class were developed when the Паранід and Аргон were friends and both governments were focused on developing a weapon more powerful than those they currently had in service.\n\nA particle accelerator was entered into the standard laser to try to increase the speed of the weapon's output. The results were amazing an almost 200% increase in output. The PAC was born. The particles are accelerated to two thirds the speed of light. At that point they are then polarised and focused into a tight energy pulse.\n\nThe effect can be quite devastating, especially to a target ship's hull. A direct hit has been known to actually dent hull plating.\nOver the jazuras, the PAC has evolved into three types, the Alpha, Beta and Gamma. Each one has a slight modification to the polarisation and focusing of the particles.[/justify][/text]</t>
+ <t id="15">[article/][author]{1294,80}[/author][title]Galnet Special : Weapons At War - Particle Accelerator Cannon[/title][text cols='1'][justify]&quot;Particle Accelerator Cannon&quot;\nJan Polak\n\nThis weapon is usually found on larger fighter craft, destroyers and on some battleships and carriers.\nThey have been around since the Аргон Weapons Society was founded near the beginning of the Ксенон conflict. The first of it's class were developed when the Паранід and Аргон were friends and both governments were focused on developing a weapon more powerful than those they currently had in service.\n\nA particle accelerator was entered into the standard laser to try to increase the speed of the weapon's output. The results were amazing an almost 200% increase in output. The PAC was born. The particles are accelerated to two thirds the speed of light. At that point they are then polarised and focused into a tight energy pulse.\n\nThe effect can be quite devastating, especially to a target ship's hull. A direct hit has been known to actually dent hull plating.\nOver the jazuras, the PAC has evolved into three types, the альфа, бета and гамма. Each one has a slight modification to the polarisation and focusing of the particles.[/justify][/text]</t>
  <t id="16">[article/][author]{1294,80}[/author][title]Station races spread to the Теладі and Спліт[/title][text cols='2'][justify]The outlawed game Station Racing has spread from Аргон space to Теладі space and now also involves the Спліт. The dangerous game involves an agreement on the award and then the station to land on. The Аргон are believed to just like the rush of the race, the Теладі just like the gambling for credits and the Спліт like the danger and being able to embarrass the loser.\n\nNo casualties in the Теладі and Спліт sectors yet but in Аргон space there have been many deaths when station doors have not opened quickly enough for the ship. New laws are being discussed by all three races to keep the space around stations free from these daredevils.\n\nOmon Misar - Culture Correspondent - GalNet News[/justify][/text]</t>
  <t id="17">[article/][author]{1294,80}[/author][title]Are they still with us?[/title][text cols='2'][justify]Гонер scientists today are once again on the hunt to determine if a pile of rocks spotted on a moon in the Монталаар system is of alien origin. Sources from the Гонер temple say that they have every reason to now believe that there may have once been activity on the moon. This comes after many jazuras of denying such a claim since the failed expedition several Jazura ago when the noted Professor Autland went missing whilst in transit to the earlier site.\n\nSo get those space-picks out and start digging! let us know what you find!\n\nJako Seldon - Current Affairs Correspondent, Galnet[/justify][/text]</t>
  <t id="18">[article/][author]{1294,80}[/author][title]Ксенон Rock?[/title][text cols='2'][justify]We all like a good laugh and every now and again we get one from those brain boxes in the Гонер sect. Currently digging on a sandy moon they cannot quite decide if it is a Ксенон artefact or a lump of rock. We have bets on that it is a rock, what do you think?\n\nIt gives us at GalNet another good laugh to witness another mess-up by these people that are supposed to be leading scientists. Remember the Golthling Turp incident? It kept many of us at the office laughing for days when it turned out to be nothing more than a Marsh Puffet.\n\nJako Seldon - Current Affairs Correspondent, Galnet[/justify][/text]</t>
@@ -5795,7 +5795,7 @@
  <t id="13">[article/][author]{1294,20}[/author][title]Sector21 Terrorists Captured[/title][text cols='1'][justify]The successful capture of terrorists believed to belong to Sector21 has been hailed a major success. A maxed out Boron Dolphin ship packed with squash mines was sent to crash into a crystal fab in one of Аргон Prime's homeworld sectors. Fortunately the authorities were tipped off and intercepted the terrorists as they remotely piloted the ship towards it's final destination.\n\nHad the attack succeeded it is probable the crystal fab would have been destroyed. Pilots are advised to be alert for ships which fail to respond to communications and to report any such instances to the relevant authorities immediately.\n\nBabu Di - Foreign Affairs Correspondent RCN News[/justify][/text]</t>
  <t id="16">[article/][author]{1294,20}[/author][title]Spaceweed Effects[/title][text cols='1'][justify]Spaceweed causes more than a mild euphoric sensation and may have medical uses after all. In results published today the Аргон College of Pharmaceutical Studies released long awaited data supporting the belief that Spaceweed reduces the effects of certain debilitating diseases including mysteria and phlobane.\n\nWhilst this represents a boost to those seeking a change in the law to legalize Spaceweed throughout Аргон space, it is unlikely to provide sufficient reason alone to justify it. Valeri Clef for the Pirate Confederacy said his alliance would continue to press for the legalization of Spaceweed and invited the Аргон College of Pharmaceutical Studies to unite behind the common goal of legalizing Spaceweed.\n\nBabu Di - Foreign Affairs Correspondent RCN News[/justify][/text]</t>
  <t id="17">[article/][author]{1294,20}[/author][title]Alleged Спліт Spy Indicted[/title][text cols='1'][justify]Fil Derk, the pilot charged with stealing state secrets by Спліт militia appeared in court on the first day of his court case. Mr. Derk protested his innocence and claimed he had not received fair treatment and feared his representation by a Спліт militia-appointed council was biased. Media covering this case have been subjected to abuse and violence as an increasingly inward-looking society is polarised by this case.\n\nBabu Di - Foreign Affairs Correspondent RCN News[/justify][/text]</t>
- <t id="18">[article/][author]{1294,20}[/author][title]Traders Harassed in Сім'я Ві[/title][text cols='2'][justify]Boron High Command have issued the following warning to all Boron and Boron-friendly traders, following a rise in the number of stop and search activities by the Спліт Сім'я Ві.\n\nIn a recent incident, Boron trader Kolo Nojol was detained for several wozuras and had an entire shipment of Gamma PAC Weapons Systems confiscated whilst returning to Rolks' Drift. He was eventually released following a concerted Теладі initiative to protect the freedom of trade between races. Several other incidents have been recorded of Спліт fighters buzzing trading ships. The Boron High Command is demanding an explanation from the Спліт Сім'я Ві of their recent actions.\n\nUntil assurances have been given all Boron and Boron-friendly pilots must exercise caution when crossing into Спліт-held sectors, and if possible avoid the Сім'я Ві sector. The Boron Queen sent her personal thanks to the Теладі negotiators for the protection of her subjects.\n\nBabu Di - Foreign Affairs Correspondent RCN News[/justify][/text]</t>
+ <t id="18">[article/][author]{1294,20}[/author][title]Traders Harassed in Сім'я Ві[/title][text cols='2'][justify]Boron High Command have issued the following warning to all Boron and Boron-friendly traders, following a rise in the number of stop and search activities by the Спліт Сім'я Ві.\n\nIn a recent incident, Boron trader Kolo Nojol was detained for several wozuras and had an entire shipment of гамма PAC Weapons Systems confiscated whilst returning to Rolks' Drift. He was eventually released following a concerted Теладі initiative to protect the freedom of trade between races. Several other incidents have been recorded of Спліт fighters buzzing trading ships. The Boron High Command is demanding an explanation from the Спліт Сім'я Ві of their recent actions.\n\nUntil assurances have been given all Boron and Boron-friendly pilots must exercise caution when crossing into Спліт-held sectors, and if possible avoid the Сім'я Ві sector. The Boron Queen sent her personal thanks to the Теладі negotiators for the protection of her subjects.\n\nBabu Di - Foreign Affairs Correspondent RCN News[/justify][/text]</t>
  <t id="20">[article/][author]{1294,20}[/author][title]Аргон Pilot Intake Rises[/title][text cols='1'][justify]A new recruitment of pilots was announced today by the Аргон government. 56 new positions have been approved pending the formation of a new Homeland Defence Squadron. Training is expected to last one jazura, anyone of proven Аргон stock is eligible to join. Recruitment well shortly commence in Стіна and Аргон Prime.\n\nBabu Di - Foreign Affairs Correspondent RCN News[/justify][/text]</t>
  <t id="22">[article/][author]{1294,20}[/author][title]Gerandor Talks[/title][text cols='1'][justify]An Аргон spokesman today indicated talks on the breakaway Republic of Gerandor were continuing. The Аргон Federation has agreed in principle to establish a devolved parliament within the disputed territories but no further details were forthcoming.\n\nPilots are advised to avoid Gerandor until the situation is resolved as increased pirate activity has been noted and the fledgling Gerandor fleet are most likely to shoot first and ask questions later.\n\nBabu Di - Foreign Affairs Correspondent RCN News[/justify][/text]</t>
  <t id="24">[article/][author]{1294,20}[/author][title]Plague Wheat[/title][text cols='2'][justify]Trade with the Аргон territories has increased since the outbreak of wheat plague on Аргон Prime. Ships coming from Омікрон Ліри and Світло Серця are plague-free. Boron authorities are considering closing the Аргон-Boron borders to all food shipments until the plague is brought under control.\n\nBabu Di - Foreign Affairs Correspondent RCN News[/justify][/text]</t>
@@ -5829,7 +5829,7 @@
  <t id="66">[article/][author]{1294,20}[/author][title]Паранід Mining Operations Grow[/title][text cols='2'][justify]A statement released recently has reported that mining operations in new Паранід Sectors are to be completed ahead of schedule. The Паранід empire intended to extract 2% of all used asteroids in local sectors by the end of this fiscal jazura, however it appears that they have achieved this goal three mazuras early.\n\nThis news has caused the dramatic price rise in mining company stocks of an average 5 credits. If work continues as scheduled, plans are currently afoot to move operations to sectors that are openly controlled by Пірат. There has been no comment on the possibility that there is to be open conflict between the Паранід and pirate sectors in a bid to control the vast mineral resources in those sectors.\n\nBabu Di Foreign Affairs Correspondent RCN News[/justify][/text]</t>
  <t id="67">[article/][author]{1294,20}[/author][title]Destroyer Crash Kills 6[/title][text cols='2'][justify]There was an unfortunate incident in Свята Трійця earlier today when the local destroyer accidentally rammed the sector's trading station. Паранід destroyers are notoriously fast and hard to control, but this still doesn't explain how the pilot managed to fly in a dead straight line for over twelve kilometres before impacting the station. Fortunately the collision was a glancing blow, resulting in only moderate damage and a few deaths. Паранід military sources report the pilot of the vessel has already been tried and convicted of &quot;treason by default&quot;. He will be executed tomorrow but will not be given the normal death rites associated with Паранід culture; this is one of the worst punishments the Паранід can inflict on one of their own, and suggests the matter is more serious than it first appears. More news as we get it.\n\nBabu Di - Foreign Affairs Correspondent - RCN News  [/justify][/text]</t>
  <t id="69">[article/][author]{1294,20}[/author][title]Merchant Expelled From Паранід Space[/title][text cols='2'][justify]The Паранід today expelled an Аргон merchant from their territory, claiming he had been performing actions &quot;contrary to the wishes of the Priest Duke&quot;. Their spokesman would not elaborate on this raw statement, but friends of the banished man were more forthcoming. One, who still has a business in Паранід space and thus asked to be kept anonymous, said, &quot;Simple, ain't it? Met was simply out-competing the local Паранід guys - in fact, several of them had gone bust due to his business. I reckon they just decided to 'keep Паранід space Паранід' and kick him out before he could become even more powerful.&quot; When this point of view was put to a Паранід official he shrugged and said, &quot;The Holy One's decision is not based on mere mortal concerns&quot; before politely asking us to leave.\n\nBabu Di - Foreign Affairs Correspondent - RCN News  [/justify][/text]</t>
- <t id="70">[article/][author]{1294,20}[/author][title]Joy As Long Lost Squidray Returns After 10 jazuras[/title][text cols='2'][justify]In an astonishing feat of animal endurance, Jola Jo, a 15 jazura-old squidray, has turned up at the home of the family it was separated from 10 jazuras ago. The family of Taka Jo, a mineral survey worker, had given up hope that the faithful beast was alive only mazuras after the steam-vent eruptions on the planet of Великий Каньйон Alpha. During the panicked evacuations of the settlements along the Fala Ridge, a dekazura ago, Jola Jo was lost.\n\nImagine the surprise and joy, therefore, when Jola Jo turned up at the family dome on the other side of the planet, deep in the Kako Trench. In a tremendous feat of survival, stamina and unexplained animal sense, the faithful squidray had tracked down the family it had lost all those jazuras ago. Only aged 5 at the time, the animal appears to have been subject to a number of ripperfish attacks over the jazuras, bearing a number of scars. However, the beast is whole and full of energy.\n\nTaka Jo said, &quot;My children are older now but we are overjoyed to see Jola Jo and look forward to many jazuras of companionship with him.&quot;' With the care and attention he will clearly receive, the lucky squidray has at least 15 jazuras of life ahead of him.\n\nLuba To - Natural Universe Correspondent RCN News [/justify][/text]</t>
+ <t id="70">[article/][author]{1294,20}[/author][title]Joy As Long Lost Squidray Returns After 10 jazuras[/title][text cols='2'][justify]In an astonishing feat of animal endurance, Jola Jo, a 15 jazura-old squidray, has turned up at the home of the family it was separated from 10 jazuras ago. The family of Taka Jo, a mineral survey worker, had given up hope that the faithful beast was alive only mazuras after the steam-vent eruptions on the planet of Великий Каньйон альфа. During the panicked evacuations of the settlements along the Fala Ridge, a dekazura ago, Jola Jo was lost.\n\nImagine the surprise and joy, therefore, when Jola Jo turned up at the family dome on the other side of the planet, deep in the Kako Trench. In a tremendous feat of survival, stamina and unexplained animal sense, the faithful squidray had tracked down the family it had lost all those jazuras ago. Only aged 5 at the time, the animal appears to have been subject to a number of ripperfish attacks over the jazuras, bearing a number of scars. However, the beast is whole and full of energy.\n\nTaka Jo said, &quot;My children are older now but we are overjoyed to see Jola Jo and look forward to many jazuras of companionship with him.&quot;' With the care and attention he will clearly receive, the lucky squidray has at least 15 jazuras of life ahead of him.\n\nLuba To - Natural Universe Correspondent RCN News [/justify][/text]</t>
  <t id="71">[article/][author]{1294,20}[/author][title]Marines Hammer Navy 30 - 12 in Annual Services Torpedoball Match[/title][text cols='2'][justify]The Royal Boron Marine Corps Torpedoball side has decisively beaten the Royal Boron Navy side in the annual match between the two services of the Royal Armed Forces. The final score of 30 to 12 tells a tale of superior marine play and skill in controlling the ball in the pool. The Services Torpedoball Trophy was deservedly won by the Marines this jazura, making it 34 Marine wins to 27 Navy since the inception of the event.\n\nOne of the highlights of the military and court calendar, the match was attended by Queen Atreus and many of her closest courtiers. The honour of receiving the trophy from Her Majesty was given to Marines team-captain Jaba Lo, a Lt. Colonel in the Corps.\nCommenting on the victory, Lt. Colonel Lo said: &quot;It's no surprise to me, the Corps fights and dies in the water, while these Navy hotshots career round space in their fancy fighters.&quot;\nCommander Gaga We was gracious in defeat: &quot;I can only congratulate our Marine colleagues. They're welcome aboard my corvette any tazura of the wozura. As long as they don't drip over the controls, that is.&quot;\n\nGala Do - Torpedoball Correspondent RCN News [/justify][/text]</t>
  <t id="72">[article/][author]{1294,20}[/author][title]Ancient Pre-Boron Site Found on Королівський Вінець[/title][text cols='2'][justify]The Royal Boron Archaeological Survey has announced a newly-discovered pre-Boron site on the homeworld. Located on the ocean floor plateau of Fala Fi, bounded by the Great Volcanic Range and the Lesser Volcanic Range, the prehistoric settlement is clearly of Boron-like creatures that must constitute part of the evolutionary ladder leading to the modern Boron.\n\nProfessor Daka Ro, of the Survey's Paleo-Anthropology Sections, said: &quot;This is a remarkably well-preserved site. Ages worth of silt has kept the primitive buildings in a relatively intact condition and many artefacts are being found across the area. We believe this was a major centre for this proto-Boron species. It is a tremendously exciting find.&quot;\n\nThe Royal Boron Archaeological Survey was called in when mineral prospectors from the Abka Tu Mining Corporation stumbled across a buried dwelling in the thick silt of the plateau. A corporation spokes boron said: &quot;We are happy to move our operations to other areas, the Fala Fi is a vast region and we are as interested in the origins of the Boron as anyone else.&quot;\n\nZepa Ta - Science Correspondent RCN News[/justify][/text]</t>
 </page>
@@ -5896,13 +5896,13 @@
  <t id="13">[article/][author]{1294,40}[/author][title]Secret Service Agent Arrested.[/title][text cols='2'][justify]Паранід Secret Service agents arrested one of their own colleagues after it was found out he was a double-agent. The agent was caught sending holographic images of top secret documents and other government secrets. Agents described their colleague as acting erratic and always trying to view top secret materiel. The agent will later be tried and possibly sentenced to death for treason. Agents also sifted through transmission logs and later issued a description and name of a man on board a TP class transport to local police forces to intercept. The ship was intercepted at the Імператорські Шахти sector. One man was taken in for questioning.\n\nLoakmanckeldong - Foreign Affairs Correspondent IPN News[/justify][/text]</t>
  <t id="14">[article/][author]{1294,40}[/author][title]Nemeses Corvette Missing.[/title][text cols='2'][justify]Паранід naval forces were searching for a missing corvette that was part of the 3rd Imperial Fleet. The ship went missing near the sector of Володіння Герцогу, after it went to investigate strange signals that were thought to be a distress beacon. The ship disappeared off the fleets scanners far south in the sector. Other ships that approached the area described having navigational trouble and comms failure. One ship also reported a fading away effect.\n\nThe search for the missing ship intensified as the 5th Imperial Fleet also entered the sector and began the search. The admirals met and both discussed the loss, saying &quot;we are totally baffled, the anomaly that the fighter pilots reported has gone. The area was ok to navigate in, we never had any comms problems. It's a mystery to us that may never be explained. We have even asked for help from scientists who later left the research centre on Паранід Прайм to help with the situation here. The mystery continues.&quot;\n\nSlokmanckkahyang - Science Correspondent IPN News[/justify][/text]</t>
  <t id="15">[article/][author]{1294,40}[/author][title]Nividium Discovery[/title][text cols='1'][justify]Unconfirmed reports have reached this bureau of highly enriched mineral resources being found on asteroids. Signs to look out for include asteroids located significantly above or below the ecliptic plane and the unusual presence of Гонер ships nearby.\n\nNividium, a rare element, until recently a laboratory phenomenon, has been found in deposits on asteroids. Unfortunately the concentrations found so far are low and highly radioactive, thus extreme caution is advised when dealing with this element. All findings are required to be reported as a condition of holding a police licence.\n\nSlokmanckkahyang - Science Correspondent IPN News[/justify][/text]</t>
- <t id="16">[article/][author]{1294,40}[/author][title]7th Imperial Fleet In Heavy Fighting.[/title][text cols='2'][justify]The 7th Imperial Fleet engaged pirate raiders in sector Priests Pity after they entered the sector from the North gate. The Odysseus destroyer Avenger took heavy damage after all the pirate ships concentrated their fire on it. Two missiles fired from one of the pirate ships penetrated the hull causing over 90 deaths to the crew. The rest of the fleet manoeuvred to cover the destroyer and started to gain the upper hand in the battle.\n\nIt is said that over 40 pirate ships were engaged and 34 of them were destroyed. A number of Пірат who ejected were also picked up and arrested. The rest of the pirate force fled the scene and were later shot down by Perseus class fighters as they tried to enter the sector of Сплітський Вогонь. It is believed the small pirate fleet was heading for a secret base in the Priests Pity sector. The 7th Imperial Fleet used long range scanners, scouring the area around then in order to plot trajectories of the course of the pirate ships. The Admiral later called all ships back into the classic X-Delta formation and headed for an undisclosed location, towing the crippled destroyer.\n\nLoakmanckeldong - Foreign Affairs Correspondent IPN News[/justify][/text]</t>
+ <t id="16">[article/][author]{1294,40}[/author][title]7th Imperial Fleet In Heavy Fighting.[/title][text cols='2'][justify]The 7th Imperial Fleet engaged pirate raiders in sector Priests Pity after they entered the sector from the North gate. The Odysseus destroyer Avenger took heavy damage after all the pirate ships concentrated their fire on it. Two missiles fired from one of the pirate ships penetrated the hull causing over 90 deaths to the crew. The rest of the fleet manoeuvred to cover the destroyer and started to gain the upper hand in the battle.\n\nIt is said that over 40 pirate ships were engaged and 34 of them were destroyed. A number of Пірат who ejected were also picked up and arrested. The rest of the pirate force fled the scene and were later shot down by Perseus class fighters as they tried to enter the sector of Сплітський Вогонь. It is believed the small pirate fleet was heading for a secret base in the Priests Pity sector. The 7th Imperial Fleet used long range scanners, scouring the area around then in order to plot trajectories of the course of the pirate ships. The Admiral later called all ships back into the classic X-дельта formation and headed for an undisclosed location, towing the crippled destroyer.\n\nLoakmanckeldong - Foreign Affairs Correspondent IPN News[/justify][/text]</t>
  <t id="17">[article/][author]{1294,40}[/author][title]Faulty Quantum Tubes Alert[/title][text cols='1'][justify]Trading standards officers have issued a product warning to all traders. A faulty batch of Quantum Tubes was stolen from Tube Fabs in Аргон sectors and believed sold by Пірат. It is not known how many faulty devices were stolen, but it is thought that the volume in question is considerable.\n\nTraders are warned not to purchase goods except from approved factories, in this case the Quantum Tubes are easy to trace by their batch number, TTQT 35336-98. Anyone providing information leading to the successful prosecution of the thieves will receive a reward of 50000 Cr.\n\nLoakmanckeldong - Foreign Affairs Correspondent IPN News[/justify][/text]</t>
  <t id="18">[article/][author]{1294,40}[/author][title]Sware Spaceweed Scandal[/title][text cols='2'][justify]The pirate confederacy, pressurising the Аргон government to relax Space Weed legislation, accused it of hypocrisy over the Sware affair. Stating that Space Weed use was widespread amongst government officials it challenged them to come clean and offered to reveal the true Space Weed supply figures. The Аргон government has so far declined to comment.\n\nLoakmanckeldong - Foreign Affairs Correspondent IPN News[/justify][/text]</t>
  <t id="19">[article/][author]{1294,40}[/author][title]Courier Recovered[/title][text cols='2'][justify]A high speed chase ended today in success when a stolen Паранід Imperial Courier was disabled by police. The ship had been stolen from the Trading Station in Паранід Прайм by three youngsters seeking fame and fortune. Briefing journalists, Pht'ar Caaart declined to comment on the youngsters being set up deliberately but instead focused on the successful capture of the ship.\n\nRomanckelyang - Social Affairs Correspondent IPN News[/justify][/text]</t>
  <t id="20">[article/][author]{1294,40}[/author][title]Supernova Visible[/title][text cols='2'][justify]A new supernova was observed today in a far off galaxy, early indications include super dense materials being ejected into space and a high degree of likelihood, according to spectral analysis, that the system was inhabited. Seasoned stargazer, P'trik M'ore suggested this was further evidence of The Ancients seeding star systems but declined to comment further when pressed.\n\nSlokmanckkahyang - Science Correspondent IPN News[/justify][/text]</t>
  <t id="21">[article/][author]{1294,40}[/author][title]Engine Tuning Fears[/title][text cols='1'][justify]&quot;Engine tuning can damage your health&quot; was the message delivered today by the Engine Manufacturers association. Tuning engines beyond their rated capacity may under certain circumstances cause high levels of radiation. Under test conditions a variety of engines were found to leak when 30 or more engine tunings were applied. Pilots are advised to keep engine tunings to below the manufacturers stated maximums.\n\nSlokmanckkahyang - Science Correspondent IPN News[/justify][/text]</t>
- <t id="22">[article/][author]{1294,40}[/author][title]Свята Трійця Explosion caused by Faulty missiles.[/title][text cols='2'][justify]The large explosion in Свята Трійця that claimed the lives of forty Traders and the crew of a Паранід Prometheus has been blamed on a faulty Hornet missile. The Паранід Authorities have issued the following statement:\n\n&quot;The Паранід Prometheus was on its way to conduct weapons trials when a Hornet missile became unstable. It appears that the missile had been incorrectly manufactured and a vital and expensive inner shield had not been installed. This led to the fatal explosion that triggered the other missiles contained in the ship. The fault has been tracked down to a batch of missiles manufactured by the Space Missile Factory Alpha in Паранід Прайм. The Priest Lord in charge of this facility has been removed. All faulty missiles have been accounted for and have been made safe. There is no longer any risk to the public.&quot;\n\nRomanckelyang - Social Affairs Correspondent IPN News[/justify][/text]</t>
+ <t id="22">[article/][author]{1294,40}[/author][title]Свята Трійця Explosion caused by Faulty missiles.[/title][text cols='2'][justify]The large explosion in Свята Трійця that claimed the lives of forty Traders and the crew of a Паранід Prometheus has been blamed on a faulty Hornet missile. The Паранід Authorities have issued the following statement:\n\n&quot;The Паранід Prometheus was on its way to conduct weapons trials when a Hornet missile became unstable. It appears that the missile had been incorrectly manufactured and a vital and expensive inner shield had not been installed. This led to the fatal explosion that triggered the other missiles contained in the ship. The fault has been tracked down to a batch of missiles manufactured by the Space Missile Factory альфа in Паранід Прайм. The Priest Lord in charge of this facility has been removed. All faulty missiles have been accounted for and have been made safe. There is no longer any risk to the public.&quot;\n\nRomanckelyang - Social Affairs Correspondent IPN News[/justify][/text]</t>
  <t id="23">[article/][author]{1294,40}[/author][title]Courier-Class Ships Due[/title][text cols='1'][justify]Following successful trials by the Аргон High Command, a fleet of Imperial Courier class ships is to be ordered. These state of the art ships will be jointly developed with the Паранід Defence Forces at secret locations.\n\nTasked with patrol duties, these ships are expected to augment existing forces and provide extended scanning capabilities. Pilots are advised to expect an increase in police activities once this fleet is commissioned.\n\nRomanckelyang - Social Affairs Correspondent IPN News[/justify][/text]</t>
  <t id="24">[article/][author]{1294,40}[/author][title]Waste Not Want Not[/title][text cols='1'][justify]With immediate effect, pilots venting waste must do so outside of main system space well beyond jump gates. Failure to adhere to this regulation will result in a fine not exceeding 50,000Cr and a bill for cleaning waste products from all affected traffic.\n\nThis directive comes in light of several incidents where pilots have been known to vent both biological and trade waste in busy trade lanes, in full knowledge that vessels in their wake would encounter a large proportion of that waste before it dispersed. Several near collisions have been reported due to pilots suddenly being unable to see due to waste matter of an Невідомий but sticky origin adhering to view portals.\n\nRomanckelyang - Social Affairs Correspondent IPN News[/justify][/text]</t>
  <t id="25">[article/][author]{1294,40}[/author][title]Territory Under Question[/title][text cols='1'][justify]The territorial dispute between the Паранід and Аргон governments took a new twist today when construction began of a new trading station in Cloudbase SouthWest.\n\nA Паранід spokesperson declared this new station would be a facility open to all races whilst an Аргон official stated this represented a breach of a prior agreement limiting the development of facilities in the Cloudbase SouthWest sector. Pilots trading in Ore are advised they may incur difficulty when docking in Аргон space in an attempt to pressure the Паранід government into backing down.\n\nLoakmanckeldong - Foreign Affairs Correspondent IPN News[/justify][/text]</t>
@@ -6137,15 +6137,15 @@
  <t id="2565">Your Dream Farm</t>
  <t id="2575">Your Sun Oil Ref.</t>
  <t id="2585">Your Bliss Place</t>
- <t id="2615">Your Alpha IRE Forge</t>
- <t id="2625">Your Beta IRE Forge</t>
- <t id="2635">Your Gamma I.R.E Forge</t>
- <t id="2645">Your Alpha PAC Forge</t>
- <t id="2655">Your Beta PAC Forge</t>
- <t id="2665">Your Gamma PAC Forge</t>
- <t id="2675">Your Alpha HEPT Forge</t>
- <t id="2685">Your Beta HEPT Forge</t>
- <t id="2695">Your Gamma HEPT Forge</t>
+ <t id="2615">Your альфа IRE Forge</t>
+ <t id="2625">Your бета IRE Forge</t>
+ <t id="2635">Your гамма I.R.E Forge</t>
+ <t id="2645">Your альфа PAC Forge</t>
+ <t id="2655">Your бета PAC Forge</t>
+ <t id="2665">Your гамма PAC Forge</t>
+ <t id="2675">Your альфа HEPT Forge</t>
+ <t id="2685">Your бета HEPT Forge</t>
+ <t id="2695">Your гамма HEPT Forge</t>
  <t id="2715">Your Shield Prod. Fac. 1MW</t>
  <t id="2725">Your Shield Prod. Fac. 5MW</t>
  <t id="2735">Your Shield Prod. Fac. 25MW</t>
@@ -6226,18 +6226,18 @@
  <t id="4565">Your Теладі Toucan</t>
  <t id="4625">Your Ion Disruptor Forge</t>
  <t id="4635">Your MDS Factory</t>
- <t id="4675">Your Alpha PSG Forge</t>
- <t id="4685">Your Beta PSG Forge</t>
- <t id="4695">Your Gamma PSG Forge</t>
+ <t id="4675">Your альфа PSG Forge</t>
+ <t id="4685">Your бета PSG Forge</t>
+ <t id="4695">Your гамма PSG Forge</t>
  <t id="4735">Your Xperimental Shuttle</t>
  <t id="4745">Your Space Suit</t>
  <t id="4755">Your Гонер Ship</t>
  <t id="4765">Your Advanced Satellite</t>
  <t id="4775">Your Camera Drone</t>
  <t id="4785">Your AP Gunner</t>
- <t id="4875">Your Alpha PPC Forge</t>
- <t id="4885">Your Beta PPC Forge</t>
- <t id="4895">Your Gamma PPC Forge</t>
+ <t id="4875">Your альфа PPC Forge</t>
+ <t id="4885">Your бета PPC Forge</t>
+ <t id="4895">Your гамма PPC Forge</t>
  <t id="4935">Your Паранід Perseus</t>
  <t id="4945">Your Lasertower Weapon Forge</t>
  <t id="4955">Your Mass Driver Forge</t>
@@ -8445,7 +8445,7 @@
  <t id="1111">Target one of the containers by using the &quot;target next/previous&quot;-keys.</t>
  <t id="1132">Good. Now select the item &quot;your current ship&quot;.</t>
  <t id="1133">This is the ship menu for your ship. Please select the item &quot;weapons&quot; now.</t>
- <t id="1134">You now see an overview of your ships laser bays. You can now select a new laser. Please install the beta particle accelerator cannon in one of the bays.</t>
+ <t id="1134">You now see an overview of your ships laser bays. You can now select a new laser. Please install the бета particle accelerator cannon in one of the bays.</t>
  <t id="11321">Please open up the main-menu now.</t>
  <t id="11331">Choose &quot;your current ship&quot; in the main menu now.</t>
  <t id="11341">Choose the &quot;weapons&quot; menu now.</t>
@@ -8571,7 +8571,7 @@
  <t id="3220">Please set credits of the Forge to 35000 and the buying price of Ore to maximum first!</t>
  <t id="4010">You are about to give a wrong command to the ship or sending it to the wrong station! Please command the ship to &quot;Dock at...&quot; the Solar Power Plant.</t>
  <t id="4020">The homebase has been reset to H.E.P.T Laser Forge.</t>
- <t id="5010">The transporter has a wrong command! Command it to &quot;Buy ware...&quot; Ore and then choose &quot;Ore Mine Alpha&quot;.</t>
+ <t id="5010">The transporter has a wrong command! Command it to &quot;Buy ware...&quot; Ore and then choose &quot;Ore Mine альфа&quot;.</t>
  <t id="6020">You have bought too much, therefore the transaction is being partly rolled back. It would be clever to use this transporter also to get the Cahoona Meatsteaks from your Bakery. Commmand &quot;Transporter 1 of Forge&quot; to &quot;Dock at...&quot; the Cahoona Bakery.</t>
  <t id="7010">The transporter has the wrong command. Tell it to &quot;Dock at...&quot; the Cahoona Bakery.</t>
  <t id="7210">&quot;Transporter 2 of Forge&quot; has loaded the Ore, needed by the Forge.</t>
@@ -8584,7 +8584,7 @@
  <t id="100000">In this sector we already have a small business cycle. You own two stations:</t>
  <t id="100001">a Cahoona Bakery, producing Cahoona Meatsteaks,</t>
  <t id="100002">and an H.E.P.T Laser Forge, which needs Cahoona Meatsteks as well as other good to manufacture a large laser.</t>
- <t id="100003">Your task is to produce one urgently needed - Alpha H.E. Plasma Thrower - short &quot;EPT&quot;.</t>
+ <t id="100003">Your task is to produce one urgently needed - альфа H.E. Plasma Thrower - short &quot;EPT&quot;.</t>
  <t id="100004">First supply your Cahoona Bakery with the needed resources.</t>
  <t id="100005">Therefore bring Argnu Beef from the Argnu Ranch,</t>
  <t id="100006">and Energycells from the Solar Power Plant to the Cahoona Bakery.</t>
@@ -8871,18 +8871,18 @@
  <t id="310102">I know it's been quiet, but is that the most important thing you've got?</t>
  <t id="310106">Hasn't been time. You want to give me those patrol details?</t>
  <t id="310108">Maybe next time I'm in the system.</t>
- <t id="310303">Don't call me sir, I'm not fleet. Right, Gamma Patrol, keep it sharp and try not to shoot each other down, okay?</t>
+ <t id="310303">Don't call me sir, I'm not fleet. Right, гамма Patrol, keep it sharp and try not to shoot each other down, okay?</t>
  <t id="310306">Then let's get to Південно-Західна Хмарна База.</t>
  <t id="310602">Call out if you get in trouble, don't go playing hero. Now, pick your targets and take them out!</t>
- <t id="310810">Hold it together, Gamma you're doing well.</t>
- <t id="310812">Use those targeters, Gamma. (alternate version - Use those targeters, lock and fire),</t>
+ <t id="310810">Hold it together, гамма you're doing well.</t>
+ <t id="310812">Use those targeters, гамма. (alternate version - Use those targeters, lock and fire),</t>
  <t id="311311">Yeah. I lost my best friend there.</t>
  <t id="311313">I just fly ships. Do a little trading, fight when I have to. Nothing else is worth thinking about.</t>
- <t id="311325">Watch your back next time, Gamma 3. You get fragged you can't help anyone.</t>
- <t id="311326">Watch your angles next time, Gamma 1. Space is 3D. They can kill you from above and below.</t>
+ <t id="311325">Watch your back next time, гамма 3. You get fragged you can't help anyone.</t>
+ <t id="311326">Watch your angles next time, гамма 1. Space is 3D. They can kill you from above and below.</t>
  <t id="311360">Pick a target and take it out!</t>
  <t id="311361">All ships attack!</t>
- <t id="311377">Good work, Gamma.</t>
+ <t id="311377">Good work, гамма.</t>
  <t id="311601">Хаак ships inbound!</t>
  <t id="311603">Break and engage!</t>
  <t id="311701">Great shooting. Now let's get you to Південно-Західна Хмарна База in one piece. You can put a round on my tab at the trading station.</t>
@@ -9417,7 +9417,7 @@
  <t id="300010">(Panicking, an alarm starting) Хаак fleet sighted off the...port bow.</t>
 </page>
 
-<page id="300191" title="Gamma Flight Leader COMM" descr="" voice="yes">
+<page id="300191" title="гамма Flight Leader COMM" descr="" voice="yes">
  <t id="1200">How can I help you, sir?</t>
  <t id="1230">None of my business that, sir.</t>
  <t id="2000">Yes.</t>
@@ -9438,9 +9438,9 @@
  <t id="2264">(Yelling in battle)</t>
  <t id="2290">1, 2, 3, 4 I love the flight corps</t>
  <t id="2310">I don't know.</t>
- <t id="310301">Gamma flight leader, reporting. We're waiting to the west of the north gate, sir.</t>
- <t id="310302">Gamma flight, ready for patrol, sir.</t>
- <t id="310307">Gamma flight. Head to West Gate and scan for hostiles. Commence Patrol.</t>
+ <t id="310301">гамма flight leader, reporting. We're waiting to the west of the north gate, sir.</t>
+ <t id="310302">гамма flight, ready for patrol, sir.</t>
+ <t id="310307">гамма flight. Head to West Gate and scan for hostiles. Commence Patrol.</t>
  <t id="310702">Cut the chatter. Close and destroy.</t>
  <t id="310802">Kiman!</t>
  <t id="310804">Hold it together. Get yourself home then think about Loka.</t>
@@ -9449,19 +9449,19 @@
  <t id="310811">Who was hit?</t>
  <t id="310901">That's one that's not going home!</t>
  <t id="310902">That's for Омікрон Ліри!</t>
- <t id="310903">Chalk another one for Gamma!</t>
+ <t id="310903">Chalk another one for гамма!</t>
  <t id="311001">Check your fire! Check your fire!</t>
  <t id="311002">Watch your targets!</t>
  <t id="311003">I'm a friendly! I'm a friendly!</t>
  <t id="311101">Good shot!</t>
  <t id="311201">There's one on your tail!</t>
- <t id="311202">Make it clean, Gamma.</t>
+ <t id="311202">Make it clean, гамма.</t>
  <t id="311203">Use your targeters, lock and fire.</t>
  <t id="311301">Where are you going?</t>
  <t id="311302">We need your help here!</t>
- <t id="311303">Trim that flight, Gamma 2.</t>
+ <t id="311303">Trim that flight, гамма 2.</t>
  <t id="311305">Do I look like your counsellor, Loka?</t>
- <t id="311309">This isn't a picnic, Gamma flight, let's stow that chatter.</t>
+ <t id="311309">This isn't a picnic, гамма flight, let's stow that chatter.</t>
  <t id="311315">You let this get personal, Kiman and you'll get spaced.</t>
  <t id="311317">Okay, keep 'em peeled. There's a lot of pirate activity round here.</t>
  <t id="311319">Check your view, check your scanner. Stay sharp.</t>
@@ -9486,9 +9486,9 @@
  <t id="311378">Thank you, sir.</t>
  <t id="311383">That's what I thought when I patrolled Аргон Prime yesterday then a Хаак M3 jumped in right behind us. Damp jump seats all round.</t>
  <t id="311384">It's been an honour flying with you. Flight, rendezvous with the Renown.</t>
- <t id="311502">We've still got a patrol to finish, Gamma flight, so form up and spot your course.</t>
- <t id="311602">Watch it, Gamma 5!</t>
- <t id="311604">Okay, Gamma. Remember, it might look quiet, but that's normally when things turn to craz. I want a scan sweep to the centre of the sector then head to South Gate.</t>
+ <t id="311502">We've still got a patrol to finish, гамма flight, so form up and spot your course.</t>
+ <t id="311602">Watch it, гамма 5!</t>
+ <t id="311604">Okay, гамма. Remember, it might look quiet, but that's normally when things turn to craz. I want a scan sweep to the centre of the sector then head to South Gate.</t>
  <t id="311605">Okay, flight, let's get it together and continue to sector Cloudbase South-West.</t>
  <t id="311606">I want a scan sweep to the centre of the sector, then head to South Gate.</t>
  <t id="311901">Thanks for your help. It's been an honour to fly with you, sir. Rendezvousing with Renown.</t>
@@ -9509,7 +9509,7 @@
  <t id="310805">Aye, sir.</t>
  <t id="310807">Yes, sir.</t>
  <t id="310809">Yes, sir. For the fleet, sir.</t>
- <t id="310813">They hit Gamma 5.</t>
+ <t id="310813">They hit гамма 5.</t>
  <t id="311307">I think he jams them himself. You seen how he looks at Neeka?</t>
  <t id="311310">Is it true you were at Омікрон Ліри?</t>
  <t id="311312">Why are the Хаак doing this?</t>
@@ -9531,7 +9531,7 @@
  <t id="2071">It's got lock on!</t>
  <t id="2072">Assistance! Assistance!</t>
  <t id="310601">I've got Хаак ships coming in!</t>
- <t id="310814">Gamma 6 is hit!</t>
+ <t id="310814">гамма 6 is hit!</t>
  <t id="311304">The thrusters are sticking again. Neeka says they're short of spares.</t>
  <t id="311306">No, sir.</t>
  <t id="311327">Can you believe they stuck us in these buckets? Jamis got one of those new M4's.</t>
@@ -12419,10 +12419,10 @@
  <t id="0">X3-Reunion - Phase 3 - The White Stone</t>
  <t id="119">Ban Danna</t>
  <t id="126">Julian</t>
- <t id="141">Gamma Flight Leader</t>
- <t id="142">Gamma 1 - Kiman</t>
- <t id="143">Gamma 2 - Loka</t>
- <t id="144">Gamma 3 - Nia</t>
+ <t id="141">гамма Flight Leader</t>
+ <t id="142">гамма 1 - Kiman</t>
+ <t id="143">гамма 2 - Loka</t>
+ <t id="144">гамма 3 - Nia</t>
  <t id="315">Silicon Mine Manager</t>
  <t id="421">Armanckessilon</t>
  <t id="422">Nolmancketnun</t>
@@ -12459,27 +12459,27 @@
  <t id="5011">Terracorp Convoy Flight Leader</t>
  <t id="5012">Illustrious</t>
  <t id="5013">Redoubt</t>
- <t id="310010">Gamma 4</t>
- <t id="310012">Gamma 5</t>
- <t id="310013">Gamma 5 Pilot</t>
- <t id="310014">Gamma 6</t>
- <t id="310015">Gamma 6 Pilot</t>
- <t id="310016">Gamma 7</t>
- <t id="310017">Gamma 7 Pilot</t>
+ <t id="310010">гамма 4</t>
+ <t id="310012">гамма 5</t>
+ <t id="310013">гамма 5 Pilot</t>
+ <t id="310014">гамма 6</t>
+ <t id="310015">гамма 6 Pilot</t>
+ <t id="310016">гамма 7</t>
+ <t id="310017">гамма 7 Pilot</t>
  <t id="320005">Ban asked me to lead a squad on a patrol route to Cloudbase South-West. They are waiting for me near the north gate in sector Home of Light.</t>
  <t id="320040">I've just received a jump-drive for finding Marani since we expect him to try to run away from us rather than fight. I should have the cargo bay full of energy cells for when I find him so he won't get away.</t>
  <t id="320050">We got Marani's crystal and gave it to Ion. I should contact Noah at the Гонер Temple and tell him what's been going on.</t>
  <t id="119310201">The patrol will start near the North Gate in Home of Light. From there take the West gate to Red Light. Once in Red Light head for the South gate to Південно-Західна Хмарна База. Check for Хаак activity in these sectors and eliminate any Хаак ships you come across.</t>
  <t id="119310202">The flight leader's got some combat experience, but the rest are rookies. Hopefully, you'll get there without incident, but stay sharp and try and keep those pilots alive. We're going to need them.</t>
  <t id="119310401">Julian, the squadron is waiting for you in Home of Light. They could use your experience. Please join them as soon as possible.</t>
- <t id="141310501">Gamma flight has commenced its patrol. We are proceeding to Південно-Західна Хмарна База.</t>
- <t id="141311401">Gamma flight under attack in sector Red Light, requesting immediate assistance!</t>
- <t id="141311402">Gamma flight under attack in sector Home of Light, requesting immediate assistance!</t>
- <t id="141311403">Gamma flight under attack in sector, Пояс Руди requesting immediate assistance!</t>
- <t id="141311404">Gamma flight destroyed Хаак in sector %s. Proceeding patrol, next sector on route is %s.</t>
+ <t id="141310501">гамма flight has commenced its patrol. We are proceeding to Південно-Західна Хмарна База.</t>
+ <t id="141311401">гамма flight under attack in sector Red Light, requesting immediate assistance!</t>
+ <t id="141311402">гамма flight under attack in sector Home of Light, requesting immediate assistance!</t>
+ <t id="141311403">гамма flight under attack in sector, Пояс Руди requesting immediate assistance!</t>
+ <t id="141311404">гамма flight destroyed Хаак in sector %s. Proceeding patrol, next sector on route is %s.</t>
  <t id="141311405">Sir, we scanned sector %s and found no Хаак activity. Proceeding to sector %s.</t>
- <t id="141311406">Gamma flight is waiting for you near the East Gate in sector Red Light, sir. Please meet us as soon as possible so we can continue the patrol route.</t>
- <t id="141311407">Gamma flight has finished its patrol and is returning to Renown. It's been an honour to fly with you, sir.</t>
+ <t id="141311406">гамма flight is waiting for you near the East Gate in sector Red Light, sir. Please meet us as soon as possible so we can continue the patrol route.</t>
+ <t id="141311407">гамма flight has finished its patrol and is returning to Renown. It's been an honour to fly with you, sir.</t>
  <t id="911350401">Come on, JB, we can't miss this lead. The Talon is docked at a station in Легенда Фарнгама. I'll meet you there.</t>
  <t id="911350732">I've got the crystal onboard. Meet me at the %s Gate in sector %s.</t>
  <t id="911351201">I've lost the lock on the Talon. I need you to cover me, JB. I'll have to get more energy cells first, then I'll meet you back in Легенда Фарнгама.</t>
@@ -12649,7 +12649,7 @@
  <t id="8070">News: Хаак attack AP</t>
  <t id="8071">News: Escape</t>
  <t id="8080">News: Victory</t>
- <t id="8301">Briefing: Gamma Patrol</t>
+ <t id="8301">Briefing: гамма Patrol</t>
  <t id="8302">Briefing: Catch Marani</t>
  <t id="8401">Briefing: Find Geb</t>
  <t id="8402">Briefing: Convoy</t>
@@ -12952,8 +12952,8 @@
  <t id="4561">Toucan</t>
  <t id="4648">(General description for all Kyon Emitters)This weapon is of Хаак Origin. It generates and emits Kyon particles that line up in a straight line.(||) How these particles are generated is not currently known.</t>
  <t id="4649">This is most commonly found on Хаак ships.</t>
- <t id="4659">This version is more powerful than the Alpha Version, it is most commonly found on Хаак ships.</t>
- <t id="4669">This version is more powerful than the Alpha or Beta Versions and is most commonly found on Хаак Capital Craft.</t>
+ <t id="4659">This version is more powerful than the альфа Version, it is most commonly found on Хаак ships.</t>
+ <t id="4669">This version is more powerful than the альфа or бета Versions and is most commonly found on Хаак Capital Craft.</t>
  <t id="4670">PSG(speak Phased Shockwave Generator)</t>
  <t id="4701">Atlas</t>
  <t id="4702">The Atlas is a giant workhorse of great power, capable of using special tractor-beam systems to move objects. Developed in a joint operation by all races, the Atlas' design is based upon a ship that can move debris and stations into safe positions after an attack by hostile forces, or to create station complexes.</t>
@@ -13053,13 +13053,13 @@
  <t id="6252">{17,9002}</t>
  <t id="6271">The Wise Guy</t>
  <t id="6272">*** [Marani's Ship M7.5 description] Type?</t>
- <t id="6281">Gamma - Flight Leader</t>
+ <t id="6281">гамма - Flight Leader</t>
  <t id="6282">{17,3142}</t>
- <t id="6291">Gamma 1</t>
+ <t id="6291">гамма 1</t>
  <t id="6292">{17,3142}</t>
- <t id="6301">Gamma 2</t>
+ <t id="6301">гамма 2</t>
  <t id="6302">{17,3142}</t>
- <t id="6311">Gamma 3</t>
+ <t id="6311">гамма 3</t>
  <t id="6312">{17,3142}</t>
  <t id="6321">Midnight Star</t>
  <t id="6322">{17,4131}</t>
@@ -13114,10 +13114,10 @@
  <t id="6564">This is the popular Terran missile called the Beluga. It is the standard earth fleet missile used onboard fighter craft.</t>
  <t id="6573">Hammerhead Missile</t>
  <t id="6574">The Hammerhead is the Terran heavy assault missile commonly used on Earth Fleet capital ships.</t>
- <t id="6583">Alpha Electro-Magnetic Plasma Cannon</t>
- <t id="6584">The Earth Fleets powerful and highly advanced Alpha EM Plasma Cannon is the most common weapon found on Terran fighters.</t>
- <t id="6593">Beta Electro-Magnetic Plasma Cannon</t>
- <t id="6594">The Earth Fleets powerful and highly advanced Beta EM Plasma Cannon is the most common weapon found on Terran capital ships.</t>
+ <t id="6583">альфа Electro-Magnetic Plasma Cannon</t>
+ <t id="6584">The Earth Fleets powerful and highly advanced альфа EM Plasma Cannon is the most common weapon found on Terran fighters.</t>
+ <t id="6593">бета Electro-Magnetic Plasma Cannon</t>
+ <t id="6594">The Earth Fleets powerful and highly advanced бета EM Plasma Cannon is the most common weapon found on Terran capital ships.</t>
  <t id="6650">Dumbfire Missile</t>
  <t id="6651">Swarm Missile</t>
  <t id="6652">Seeker Missile</t>
@@ -13230,23 +13230,23 @@
  <t id="7381">{2017,29}</t>
  <t id="7391">{2017,30}</t>
  <t id="7700">PBE(speak Pulsed Beam Emitter)</t>
- <t id="7701">Alpha PBE Forge</t>
- <t id="7702">This Laser Forge manufactures the Alpha Pulsed Beam Emitter. </t>
- <t id="7703">Alpha Pulsed Beam Emitter</t>
- <t id="7704">The Alpha Pulsed Beam Emitter is a high-tech weapon that uses directed beams of rapidly fired enhanced energy to produce a weapon of devastating firepower. </t>
- <t id="7711">Beta PBE Forge</t>
- <t id="7712">This Laser Forge manufactures the Beta Pulsed Beam Emitter.</t>
- <t id="7713">Beta Pulsed Beam Emitter</t>
- <t id="7714">The Beta Pulsed Beam Emitter is an advanced weapon that uses more powerful energy bursts than its predecessor. </t>
+ <t id="7701">альфа PBE Forge</t>
+ <t id="7702">This Laser Forge manufactures the альфа Pulsed Beam Emitter. </t>
+ <t id="7703">альфа Pulsed Beam Emitter</t>
+ <t id="7704">The альфа Pulsed Beam Emitter is a high-tech weapon that uses directed beams of rapidly fired enhanced energy to produce a weapon of devastating firepower. </t>
+ <t id="7711">бета PBE Forge</t>
+ <t id="7712">This Laser Forge manufactures the бета Pulsed Beam Emitter.</t>
+ <t id="7713">бета Pulsed Beam Emitter</t>
+ <t id="7714">The бета Pulsed Beam Emitter is an advanced weapon that uses more powerful energy bursts than its predecessor. </t>
  <t id="7720">FAA(speak Flak Artillery Array)</t>
- <t id="7721">Alpha Flak Artillery Forge</t>
- <t id="7722">This Laser Forge manufactures the Alpha Flak Artillery Array.</t>
- <t id="7723">Alpha Flak Artillery Array</t>
- <t id="7724">The Alpha Flak Artillery Array is a new weapon that fires bursts of energy into space, acting as a defence barrier that stops most missiles and light fighter-ships.</t>
- <t id="7731">Beta Flak Artillery Forge</t>
- <t id="7732">This Laser Forge manufactures the Beta Flak Artillery Array.</t>
- <t id="7733">Beta Flak Artillery Array</t>
- <t id="7734">The Beta Flak Artillery Array is a new weapon that fires enhanced bursts of energy into space, acting as a defence barrier that stops the majority of missiles and fighter ships.</t>
+ <t id="7721">альфа Flak Artillery Forge</t>
+ <t id="7722">This Laser Forge manufactures the альфа Flak Artillery Array.</t>
+ <t id="7723">альфа Flak Artillery Array</t>
+ <t id="7724">The альфа Flak Artillery Array is a new weapon that fires bursts of energy into space, acting as a defence barrier that stops most missiles and light fighter-ships.</t>
+ <t id="7731">бета Flak Artillery Forge</t>
+ <t id="7732">This Laser Forge manufactures the бета Flak Artillery Array.</t>
+ <t id="7733">бета Flak Artillery Array</t>
+ <t id="7734">The бета Flak Artillery Array is a new weapon that fires enhanced bursts of energy into space, acting as a defence barrier that stops the majority of missiles and fighter ships.</t>
  <t id="7740">Production Complex</t>
  <t id="7741">{17,2610} {17,7740}</t>
  <t id="7742">This production complex manufactures Impulse Ray Emitters</t>
@@ -13593,7 +13593,7 @@
  <t id="4035">Auto:(AutoSave)</t>
  <t id="4039">Reset Gametips</t>
  <t id="4040">Postprocess Filter</t>
- <t id="4255">Gamma</t>
+ <t id="4255">гамма</t>
  <t id="4256">Intermediate Products</t>
  <t id="4257">,(seperator for numbers - 1000 becomes 1,000)</t>
  <t id="4258">Field of View</t>
@@ -14482,14 +14482,14 @@
  <t id="62">[author]$AUTHOR$[/author][title]Slipstream Xtreme - racing fee![/title][text]We are sorry, but you cannot join the next race. Collect some more money and you will be able to take part.\n\nYou will need \033G$STARTINGFEE$\033X Credits\n\n[center][select]Close[/select][/center][/text]</t>
  <t id="70">[justify]We are proud to announce the racer for the next Slipstream Xtreme race in $RACINGLEAGUE$ league.\n\nGood luck to all the racers.\n$RACERLIST$[/justify]\n</t>
  <t id="80">[justify]Forward to next page to receive actual league rankings.[/justify]\n\n[center][select value='show']View leagues[/select][/center]</t>
- <t id="81">[justify]If you are interested in some additional money, visit our betting agency and bet some money on one of the racers.\n\n[/justify][center][select value='OpenBetAgency']Betting agency[/select][/center]</t>
+ <t id="81">[justify]If you are interested in some additional money, visit our betting agency and bet some money on one of the racers.\n\n[/justify][center][select value='Openбетаgency']Betting agency[/select][/center]</t>
  <t id="82">[justify]We are glad to announce an upcoming $RACINGLEAGUE$ league race starting in about $MINLEFT$ mizuras.[/justify]</t>
  <t id="90">[author]$AUTHOR$[/author][title]Slipstream Xtreme - General Information[/title][text]</t>
  <t id="100">[author]$AUTHOR$[/author][title]Slipstream Xtreme - racer died in accident![/title][center]Important Message![/center]\n\nA few mizuras ago $KILLEDRACER$ from '$LEAGUENAME$' league was killed in an accident. To continue league racing he is replaced by $NEWRACER$.\nGood luck to him for the future.</t>
  <t id="110">[/text]</t>
  <t id="120">[author]$AUTHOR$[/author][title]Slipstream Xtreme - actual '$LEAGUENAME$' league rankings[/title][text cols='1' colwidth='500'][justify]$LEAGUE$[/justify]\n\n$LEAGUEBUTTONS$[/text]</t>
  <t id="121">[author]$AUTHOR$[/author][title]Slipstream Xtreme - betting agency![/title][text][justify]If you want to bet some money on a racer first select the racer who you think will be the winner.[/justify]\n\n[center]$BETRACER$\n[select]Close[/select][/center][/text]</t>
- <t id="122">[author]$AUTHOR$[/author][title]Slipstream Xtreme - betting agency![/title][text][justify]You have selected $BETRACERSEL$ as your favourite. His rating is $RACERRATE$. How much money do you want to bet on him?\n\n[/justify][center]$BETMONEY$\n[select value='OpenBetAgency']Change racer[/select][/center][/text]</t>
+ <t id="122">[author]$AUTHOR$[/author][title]Slipstream Xtreme - betting agency![/title][text][justify]You have selected $BETRACERSEL$ as your favourite. His rating is $RACERRATE$. How much money do you want to bet on him?\n\n[/justify][center]$BETMONEY$\n[select value='Openбетаgency']Change racer[/select][/center][/text]</t>
  <t id="123">[author]$AUTHOR$[/author][title]Slipstream Xtreme - betting agency![/title][text][justify]Thank you for your bet. Should you win some money it will automatically transfered to you after the race. You will also receive notification.[/justify]\n[center][select]Close[/select][/center][/text]</t>
  <t id="124">[author]$AUTHOR$[/author][title]Slipstream Xtreme - betting agency![/title][text][justify]We are sorry, but you are still betting on $BETRACERSEL$. Please wait for next race to bet again.[/justify]\n[center][select]Close[/select][/center][/text]</t>
  <t id="130">[author]$AUTHOR$[/author][title]Slipstream Xtreme - betting agency![/title][text][center]Congratulations![/center]\n[justify]We are glad to inform you, that your racer $BETRACERSEL$ won the last race. We still send the winning prize of $BETREWARD$ credits to you.\n\nISA betting agency[/justify][/text]</t>
@@ -15175,10 +15175,10 @@
  <t id="7025">Your Medusa</t>
  <t id="7035">Your LX</t>
  <t id="7045">Your Hyperion</t>
- <t id="7705">Your Alpha Pulsed Beam Emitter Fab</t>
- <t id="7715">Your Beta Pulsed Beam Emitter Fab</t>
- <t id="7725">Your Alpha Flak Artillery Array Fab</t>
- <t id="7735">Your Beta Flak Artillery Array Fab</t>
+ <t id="7705">Your альфа Pulsed Beam Emitter Fab</t>
+ <t id="7715">Your бета Pulsed Beam Emitter Fab</t>
+ <t id="7725">Your альфа Flak Artillery Array Fab</t>
+ <t id="7735">Your бета Flak Artillery Array Fab</t>
 </page>
 
 <page id="301900" title="Intro Menus" descr="" voice="0">
@@ -16216,12 +16216,12 @@
  <t id="380">I repeat...</t>
  <t id="385">My ship is damaged, repairs required.</t>
  <t id="386">My ship is damaged, heading for closest repair facility.</t>
- <t id="400">alpha.</t>
- <t id="401">beta.</t>
- <t id="402">gamma.</t>
- <t id="403">delta.</t>
- <t id="404">epsilon.</t>
- <t id="405">zeta.</t>
+ <t id="400">альфа.</t>
+ <t id="401">бета.</t>
+ <t id="402">гамма.</t>
+ <t id="403">дельта.</t>
+ <t id="404">епсилон.</t>
+ <t id="405">дзета.</t>
  <t id="406">sigma.</t>
  <t id="407">theta.</t>
  <t id="408">omega.</t>
@@ -16421,12 +16421,12 @@
  <t id="380">I repeat...</t>
  <t id="385">My ship is damaged, repairs required.</t>
  <t id="386">My ship is damaged, heading for closest repair facility.</t>
- <t id="400">alpha.</t>
- <t id="401">beta.</t>
- <t id="402">gamma.</t>
- <t id="403">delta.</t>
- <t id="404">epsilon.</t>
- <t id="405">zeta.</t>
+ <t id="400">альфа.</t>
+ <t id="401">бета.</t>
+ <t id="402">гамма.</t>
+ <t id="403">дельта.</t>
+ <t id="404">епсилон.</t>
+ <t id="405">дзета.</t>
  <t id="406">sigma.</t>
  <t id="407">theta.</t>
  <t id="408">omega.</t>
@@ -16636,12 +16636,12 @@
  <t id="380">I repeat...</t>
  <t id="385">My ship is damaged, repairs required.</t>
  <t id="386">My ship is damaged, heading for closest repair facility.</t>
- <t id="400">alpha</t>
- <t id="401">beta</t>
- <t id="402">gamma</t>
- <t id="403">delta</t>
- <t id="404">epsilon</t>
- <t id="405">zeta</t>
+ <t id="400">альфа</t>
+ <t id="401">бета</t>
+ <t id="402">гамма</t>
+ <t id="403">дельта</t>
+ <t id="404">епсилон</t>
+ <t id="405">дзета</t>
  <t id="406">sigma</t>
  <t id="407">theta</t>
  <t id="408">omega</t>
@@ -16848,12 +16848,12 @@
  <t id="380">I repeat...</t>
  <t id="385">My ship is damaged, repairs required.</t>
  <t id="386">My ship is damaged, heading for closest repair facility.</t>
- <t id="400">alpha.</t>
- <t id="401">beta.</t>
- <t id="402">gamma.</t>
- <t id="403">delta.</t>
- <t id="404">epsilon.</t>
- <t id="405">zeta.</t>
+ <t id="400">альфа.</t>
+ <t id="401">бета.</t>
+ <t id="402">гамма.</t>
+ <t id="403">дельта.</t>
+ <t id="404">епсилон.</t>
+ <t id="405">дзета.</t>
  <t id="406">sigma.</t>
  <t id="407">theta.</t>
  <t id="408">omega.</t>
@@ -17043,12 +17043,12 @@
  <t id="380">I repeat...</t>
  <t id="385">My ship is damaged, repairs required.</t>
  <t id="386">My ship is damaged, heading for closest repair facility.</t>
- <t id="400">alpha.</t>
- <t id="401">beta.</t>
- <t id="402">gamma.</t>
- <t id="403">delta.</t>
- <t id="404">epsilon.</t>
- <t id="405">zeta.</t>
+ <t id="400">альфа.</t>
+ <t id="401">бета.</t>
+ <t id="402">гамма.</t>
+ <t id="403">дельта.</t>
+ <t id="404">епсилон.</t>
+ <t id="405">дзета.</t>
  <t id="406">sigma.</t>
  <t id="407">theta.</t>
  <t id="408">omega.</t>
@@ -17255,12 +17255,12 @@
  <t id="380">I repeat...</t>
  <t id="385">My ship is damaged, repairs required.</t>
  <t id="386">My ship is damaged, heading for closest repair facility.</t>
- <t id="400">alpha.</t>
- <t id="401">beta.</t>
- <t id="402">gamma.</t>
- <t id="403">delta.</t>
- <t id="404">epsilon.</t>
- <t id="405">zeta.</t>
+ <t id="400">альфа.</t>
+ <t id="401">бета.</t>
+ <t id="402">гамма.</t>
+ <t id="403">дельта.</t>
+ <t id="404">епсилон.</t>
+ <t id="405">дзета.</t>
  <t id="406">sigma.</t>
  <t id="407">theta.</t>
  <t id="408">omega.</t>
@@ -17457,12 +17457,12 @@
  <t id="380">I repeat...</t>
  <t id="385">My ship is damaged, repairs required.</t>
  <t id="386">My ship is damaged, heading for closest repair facility.</t>
- <t id="400">alpha</t>
- <t id="401">beta</t>
- <t id="402">gamma</t>
- <t id="403">delta</t>
- <t id="404">epsilon</t>
- <t id="405">zeta</t>
+ <t id="400">альфа</t>
+ <t id="401">бета</t>
+ <t id="402">гамма</t>
+ <t id="403">дельта</t>
+ <t id="404">епсилон</t>
+ <t id="405">дзета</t>
  <t id="406">sigma</t>
  <t id="407">theta</t>
  <t id="408">omega</t>
@@ -17673,12 +17673,12 @@
  <t id="380">I repeat...</t>
  <t id="385">My ship is damaged, repairs required</t>
  <t id="386">My ship is damaged, heading for closest repair facility</t>
- <t id="400">alpha</t>
- <t id="401">beta</t>
- <t id="402">gamma</t>
- <t id="403">delta</t>
- <t id="404">epsilon</t>
- <t id="405">zeta</t>
+ <t id="400">альфа</t>
+ <t id="401">бета</t>
+ <t id="402">гамма</t>
+ <t id="403">дельта</t>
+ <t id="404">епсилон</t>
+ <t id="405">дзета</t>
  <t id="406">sigma</t>
  <t id="407">theta</t>
  <t id="408">omega</t>
@@ -17875,12 +17875,12 @@
  <t id="380">I repeat...</t>
  <t id="385">My ship is damaged, repairs required.</t>
  <t id="386">My ship is damaged, heading for closest repair facility.</t>
- <t id="400">alpha.</t>
- <t id="401">beta.</t>
- <t id="402">gamma.</t>
- <t id="403">delta.</t>
- <t id="404">epsilon.</t>
- <t id="405">zeta.</t>
+ <t id="400">альфа.</t>
+ <t id="401">бета.</t>
+ <t id="402">гамма.</t>
+ <t id="403">дельта.</t>
+ <t id="404">епсилон.</t>
+ <t id="405">дзета.</t>
  <t id="406">sigma.</t>
  <t id="407">theta.</t>
  <t id="408">omega.</t>
@@ -18086,12 +18086,12 @@
  <t id="380">I repeat...</t>
  <t id="385">My ship is damaged, repairs required.</t>
  <t id="386">My ship is damaged, heading for closest repair facility.</t>
- <t id="400">alpha.</t>
- <t id="401">beta.</t>
- <t id="402">gamma.</t>
- <t id="403">delta.</t>
- <t id="404">epsilon.</t>
- <t id="405">zeta.</t>
+ <t id="400">альфа.</t>
+ <t id="401">бета.</t>
+ <t id="402">гамма.</t>
+ <t id="403">дельта.</t>
+ <t id="404">епсилон.</t>
+ <t id="405">дзета.</t>
  <t id="406">sigma.</t>
  <t id="407">theta.</t>
  <t id="408">omega.</t>
@@ -18287,12 +18287,12 @@
  <t id="380">I repeat...</t>
  <t id="385">My ship is damaged, repairs required</t>
  <t id="386">My ship is damaged, heading for closest repair facility</t>
- <t id="400">alpha</t>
- <t id="401">beta</t>
- <t id="402">gamma</t>
- <t id="403">delta</t>
- <t id="404">epsilon</t>
- <t id="405">zeta</t>
+ <t id="400">альфа</t>
+ <t id="401">бета</t>
+ <t id="402">гамма</t>
+ <t id="403">дельта</t>
+ <t id="404">епсилон</t>
+ <t id="405">дзета</t>
  <t id="406">sigma</t>
  <t id="407">theta</t>
  <t id="408">omega</t>
@@ -18466,12 +18466,12 @@
  <t id="380">I repeat...</t>
  <t id="385">My ship is damaged, repairs required.</t>
  <t id="386">My ship is damaged, heading for closest repair facility.</t>
- <t id="400">alpha.</t>
- <t id="401">beta.</t>
- <t id="402">gamma.</t>
- <t id="403">delta.</t>
- <t id="404">epsilon.</t>
- <t id="405">zeta.</t>
+ <t id="400">альфа.</t>
+ <t id="401">бета.</t>
+ <t id="402">гамма.</t>
+ <t id="403">дельта.</t>
+ <t id="404">епсилон.</t>
+ <t id="405">дзета.</t>
  <t id="406">sigma.</t>
  <t id="407">theta.</t>
  <t id="408">omega.</t>
@@ -18662,12 +18662,12 @@
  <t id="380">I repeat...</t>
  <t id="385">My ship is damaged, repairs required.</t>
  <t id="386">My ship is damaged, heading for closest repair facility.</t>
- <t id="400">alpha.</t>
- <t id="401">beta.</t>
- <t id="402">gamma.</t>
- <t id="403">delta.</t>
- <t id="404">epsilon.</t>
- <t id="405">zeta.</t>
+ <t id="400">альфа.</t>
+ <t id="401">бета.</t>
+ <t id="402">гамма.</t>
+ <t id="403">дельта.</t>
+ <t id="404">епсилон.</t>
+ <t id="405">дзета.</t>
  <t id="406">sigma.</t>
  <t id="407">theta.</t>
  <t id="408">omega.</t>
@@ -18781,7 +18781,7 @@
 </page>
 
 <page id="301831" title="Advanced Tutorial 1" descr="Advanced Tutorial1: Two Factories" voice="yes">
- <t id="50">Good work - the transporter will now move on - heading to the Solar Power Plant. We'll care about it later on. As you own a second transporter, use it to get Ore automatically. -- Command &quot;Transporter 2 of Forge&quot; to &quot;Buy ware...&quot; and then choose &quot;Ore&quot; and as destination factory the &quot;Ore Mine Alpha&quot;. -- This will make the ship fly to the specified station to get the resource but this time it will fly out only once.</t>
+ <t id="50">Good work - the transporter will now move on - heading to the Solar Power Plant. We'll care about it later on. As you own a second transporter, use it to get Ore automatically. -- Command &quot;Transporter 2 of Forge&quot; to &quot;Buy ware...&quot; and then choose &quot;Ore&quot; and as destination factory the &quot;Ore Mine альфа&quot;. -- This will make the ship fly to the specified station to get the resource but this time it will fly out only once.</t>
  <t id="52">Very well done! The transporter is on its way to get Ore for the Forge. -- Now we have to wait until &quot;Transporter 1 of Forge&quot; has landed at the Solar Power Plant. Meanwhile you could watch the transporter in a monitor...</t>
  <t id="60">&quot;Transporter 1 of Forge&quot; has landed at the Power Plant! Now you will find the menu-item &quot;trade with station&quot; in its ship menu allowing you to load the needed Energy Cells into the ship. Buy 600 Energy Cells right now.</t>
  <t id="83">&quot;Transporter 1 of Forge&quot; has landed at the Bakery. Please wait until the Cahoona Bakery has produced an amount of 100 Meatsteaks to load them into &quot;Transporter 1 of Forge&quot;. By the way: You can look up the progress of the production in the station menu.</t>
