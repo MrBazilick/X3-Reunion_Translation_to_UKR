@@ -255,8 +255,8 @@
  <t id="133">New remote command cannot be executed</t>
  <t id="134">This missile is not compatible with your ship</t>
  <t id="135">Команду відхилено</t>
- <t id="136">This weapon is not compatible with your ship</t>
- <t id="137">This shield is not compatible with your ship</t>
+ <t id="136">Ця зброя несумісна з вашим кораблем</t>
+ <t id="137">Цей щит несумісний з вашим кораблем</t>
  <t id="200">обрано</t>
  <t id="1200">You cannot buy this factory at the moment, because you do not have the necessary storage space to transport all the equipment included in this package. You need to find and hire a TL Class transportation cruiser!</t>
  <t id="1245">Factory construction initiated in sector:</t>
